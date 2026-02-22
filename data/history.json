@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-21T22:55:38.538745",
+  "last_updated": "2026-02-22T22:56:04.872784",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -5060,6 +5060,131 @@
     "13df32e5c4a9c437": {
       "date": "2026-02-21",
       "title": "localhost to deploy..project that changed my thinking....",
+      "source": "devto"
+    },
+    "1b630a4528e975fa": {
+      "date": "2026-02-22",
+      "title": "Claude in PowerPoint",
+      "source": "producthunt"
+    },
+    "3763f4ed4d98664f": {
+      "date": "2026-02-22",
+      "title": "Wordy",
+      "source": "producthunt"
+    },
+    "e4208d3fb42ae4e1": {
+      "date": "2026-02-22",
+      "title": "Tidy",
+      "source": "producthunt"
+    },
+    "7a8e107ca6d837bb": {
+      "date": "2026-02-22",
+      "title": "Attention Media ≠ Social Networks",
+      "source": "hackernews"
+    },
+    "ddc00755200b9251": {
+      "date": "2026-02-22",
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "source": "hackernews"
+    },
+    "dabc46ba7032b800": {
+      "date": "2026-02-22",
+      "title": "Fix your tools",
+      "source": "hackernews"
+    },
+    "c66648e231a7c223": {
+      "date": "2026-02-22",
+      "title": "Loops is a federated, open-source TikTok",
+      "source": "hackernews"
+    },
+    "90c41127ec08ed67": {
+      "date": "2026-02-22",
+      "title": "Show HN: Local-First Linux MicroVMs for macOS",
+      "source": "hackernews"
+    },
+    "a00810ac74a4ed76": {
+      "date": "2026-02-22",
+      "title": "Global Intelligence Crisis",
+      "source": "hackernews"
+    },
+    "cde7070e991255f8": {
+      "date": "2026-02-22",
+      "title": "Linuxulator on FreeBSD Feels Like Magic",
+      "source": "hackernews"
+    },
+    "274fa5be4e10f7ef": {
+      "date": "2026-02-22",
+      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+      "source": "hackernews"
+    },
+    "b087b463e0459f3f": {
+      "date": "2026-02-22",
+      "title": "Algolia Hacker News Search GitHub Project Archived",
+      "source": "hackernews"
+    },
+    "7de9f98a57d5ecfa": {
+      "date": "2026-02-22",
+      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+      "source": "hackernews"
+    },
+    "58c322f57d693443": {
+      "date": "2026-02-22",
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "source": "github"
+    },
+    "aa52d8501eee42c2": {
+      "date": "2026-02-22",
+      "title": "OpenBB-finance / OpenBB",
+      "source": "github"
+    },
+    "d8ef8b2a0cd1d64e": {
+      "date": "2026-02-22",
+      "title": "I Left My First Hackathon at 8 PM — And it Was a Massive Success!",
+      "source": "devto"
+    },
+    "ee0fe7e93f370bbf": {
+      "date": "2026-02-22",
+      "title": "I feel lost on AI",
+      "source": "devto"
+    },
+    "a86ad88b7f1743a6": {
+      "date": "2026-02-22",
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good ",
+      "source": "devto"
+    },
+    "e1db049804e9cf3c": {
+      "date": "2026-02-22",
+      "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
+      "source": "devto"
+    },
+    "0ca19a524648c08b": {
+      "date": "2026-02-22",
+      "title": "Promotions Don't Go to the Best Coders (Here's Why)",
+      "source": "devto"
+    },
+    "eb5c3ff6a0a3da98": {
+      "date": "2026-02-22",
+      "title": "Migrating from DataWeave 1.0 to 2.0: A Practical Guide",
+      "source": "devto"
+    },
+    "d31d3423223b6dab": {
+      "date": "2026-02-22",
+      "title": "The time bomb in your codebase (and mine too)",
+      "source": "devto"
+    },
+    "eba095275f3e7064": {
+      "date": "2026-02-22",
+      "title": "Cursor deleted all the comments in my file",
+      "source": "devto"
+    },
+    "ce66f6f8a31e3c03": {
+      "date": "2026-02-22",
+      "title": "I Built a Free yt-dlp Web Frontend That Supports 1000+ Sites — Here's How",
+      "source": "devto"
+    },
+    "f73444f99db836e9": {
+      "date": "2026-02-22",
+      "title": "I built a note-taking app where I literally can't access your data",
       "source": "devto"
     }
   }
