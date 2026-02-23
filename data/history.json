@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-22T22:56:04.872784",
+  "last_updated": "2026-02-23T23:11:05.508862",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -5185,6 +5185,171 @@
     "f73444f99db836e9": {
       "date": "2026-02-22",
       "title": "I built a note-taking app where I literally can't access your data",
+      "source": "devto"
+    },
+    "9227c5e46bacde6f": {
+      "date": "2026-02-23",
+      "title": "Callio",
+      "source": "producthunt"
+    },
+    "ed789aa971c9bd0a": {
+      "date": "2026-02-23",
+      "title": "Seagull",
+      "source": "producthunt"
+    },
+    "2df29dce83775f94": {
+      "date": "2026-02-23",
+      "title": "Wispr Flow for Android",
+      "source": "producthunt"
+    },
+    "e76c51e8118c4b05": {
+      "date": "2026-02-23",
+      "title": "OpenHunt",
+      "source": "producthunt"
+    },
+    "51002bac3ea1c32d": {
+      "date": "2026-02-23",
+      "title": "App Cleaner & Uninstaller 9.1",
+      "source": "producthunt"
+    },
+    "665701e565e8eac7": {
+      "date": "2026-02-23",
+      "title": "YAP",
+      "source": "producthunt"
+    },
+    "1b9abb0d48d2a284": {
+      "date": "2026-02-23",
+      "title": "PipedriveSheets",
+      "source": "producthunt"
+    },
+    "c6a4e2af64a12ecd": {
+      "date": "2026-02-23",
+      "title": "AnnotateAI",
+      "source": "producthunt"
+    },
+    "bdb351474b37c0cb": {
+      "date": "2026-02-23",
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "source": "hackernews"
+    },
+    "8d8fe75a9c447c42": {
+      "date": "2026-02-23",
+      "title": "Ladybird adopts Rust",
+      "source": "hackernews"
+    },
+    "318525fe36e06537": {
+      "date": "2026-02-23",
+      "title": "Elsevier shuts down its finance journal citation cartel",
+      "source": "hackernews"
+    },
+    "a63868c9573d71ff": {
+      "date": "2026-02-23",
+      "title": "Americans are destroying Flock surveillance cameras",
+      "source": "hackernews"
+    },
+    "9e6d85f69f49ad03": {
+      "date": "2026-02-23",
+      "title": "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
+      "source": "hackernews"
+    },
+    "c014d83c88a19e73": {
+      "date": "2026-02-23",
+      "title": "Show HN: PgDog – Scale Postgres without changing the app",
+      "source": "hackernews"
+    },
+    "5ea22df841ffe913": {
+      "date": "2026-02-23",
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+      "source": "hackernews"
+    },
+    "59ea00fc5cc9e68b": {
+      "date": "2026-02-23",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "source": "hackernews"
+    },
+    "6b567ece34fa3535": {
+      "date": "2026-02-23",
+      "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+      "source": "hackernews"
+    },
+    "2d97bbb594c8004f": {
+      "date": "2026-02-23",
+      "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
+      "source": "hackernews"
+    },
+    "251033f709a8ef6a": {
+      "date": "2026-02-23",
+      "title": "muratcankoylan / Agent-Skills-for-Context-Engineering",
+      "source": "github"
+    },
+    "f4dc7845d5a0da45": {
+      "date": "2026-02-23",
+      "title": "f / prompts.chat",
+      "source": "github"
+    },
+    "334df41a788ba98a": {
+      "date": "2026-02-23",
+      "title": "CompVis / stable-diffusion",
+      "source": "github"
+    },
+    "409c29b9ffd2c331": {
+      "date": "2026-02-23",
+      "title": "siteboon / claudecodeui",
+      "source": "github"
+    },
+    "bf149dba61d06599": {
+      "date": "2026-02-23",
+      "title": "clash-verge-rev / clash-verge-rev",
+      "source": "github"
+    },
+    "7022a6629c7a83e6": {
+      "date": "2026-02-23",
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "source": "devto"
+    },
+    "8a302f5756c59595": {
+      "date": "2026-02-23",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "09e5b6c1158bdab4": {
+      "date": "2026-02-23",
+      "title": "Sorting algorithms visualized",
+      "source": "devto"
+    },
+    "225c5c3c111f3cd3": {
+      "date": "2026-02-23",
+      "title": "I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.",
+      "source": "devto"
+    },
+    "b30c25f1b7f79fe2": {
+      "date": "2026-02-23",
+      "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
+      "source": "devto"
+    },
+    "26b07f908f7f6d27": {
+      "date": "2026-02-23",
+      "title": "💥How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)💥",
+      "source": "devto"
+    },
+    "c5911267a1eb3a96": {
+      "date": "2026-02-23",
+      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
+      "source": "devto"
+    },
+    "6a371d536466b0a1": {
+      "date": "2026-02-23",
+      "title": "2026 is the New 2016 and Honestly? I Kind of Get It.",
+      "source": "devto"
+    },
+    "0150d0dc3a7095d0": {
+      "date": "2026-02-23",
+      "title": "I Built a Tool to Convert Invoice PDFs into Excel - Here’s What Surprised Me",
+      "source": "devto"
+    },
+    "0dc8e6763a13cfc8": {
+      "date": "2026-02-23",
+      "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule",
       "source": "devto"
     }
   }
