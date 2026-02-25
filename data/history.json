@@ -1,467 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-02-24T23:04:01.582504",
+  "last_updated": "2026-02-25T23:04:43.122828",
   "sent_items": {
-    "61226841096d4f3c": {
-      "date": "2026-01-25",
-      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
-      "source": "hackernews"
-    },
-    "eb5009b11a7ee981": {
-      "date": "2026-01-25",
-      "title": "Claude Code's new hidden feature: Swarms",
-      "source": "hackernews"
-    },
-    "df403e38edb5949d": {
-      "date": "2026-01-25",
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "source": "hackernews"
-    },
-    "b3dbd7d8fa3e96a7": {
-      "date": "2026-01-25",
-      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-      "source": "hackernews"
-    },
-    "5c6f275d8ceac020": {
-      "date": "2026-01-25",
-      "title": "We X-Rayed a Suspicious FTDI USB Cable",
-      "source": "hackernews"
-    },
-    "c0824657a1000189": {
-      "date": "2026-01-25",
-      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
-      "source": "hackernews"
-    },
-    "4d694482f94681ff": {
-      "date": "2026-01-25",
-      "title": "Two Weeks Until Tapeout",
-      "source": "hackernews"
-    },
-    "6ca91292247b981f": {
-      "date": "2026-01-25",
-      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-      "source": "hackernews"
-    },
-    "d34a546128ad7aef": {
-      "date": "2026-01-25",
-      "title": "A Lament for Aperture",
-      "source": "hackernews"
-    },
-    "002d286527d0cadb": {
-      "date": "2026-01-25",
-      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
-      "source": "hackernews"
-    },
-    "918d6968ffa79514": {
-      "date": "2026-01-25",
-      "title": "remotion-dev / remotion",
-      "source": "github"
-    },
-    "9fea7d3b8ac2c89f": {
-      "date": "2026-01-25",
-      "title": "VectifyAI / PageIndex",
-      "source": "github"
-    },
-    "ee691152fbdfb453": {
-      "date": "2026-01-25",
-      "title": "OpenBMB / UltraRAG",
-      "source": "github"
-    },
-    "2f48be63fe82be5d": {
-      "date": "2026-01-25",
-      "title": "browser-use / browser-use",
-      "source": "github"
-    },
-    "72fa17aeb2856515": {
-      "date": "2026-01-25",
-      "title": "block / goose",
-      "source": "github"
-    },
-    "a0731e6055d53bca": {
-      "date": "2026-01-25",
-      "title": "Blaizzy / mlx-audio",
-      "source": "github"
-    },
-    "e0d0d399bd6a3f2b": {
-      "date": "2026-01-25",
-      "title": "simstudioai / sim",
-      "source": "github"
-    },
-    "104b57e9a4316877": {
-      "date": "2026-01-25",
-      "title": "microsoft / VibeVoice",
-      "source": "github"
-    },
-    "e14739f4d391ee42": {
-      "date": "2026-01-25",
-      "title": "putyy / res-downloader",
-      "source": "github"
-    },
-    "dc96a1b2d97c9396": {
-      "date": "2026-01-25",
-      "title": "AI4Finance-Foundation / FinRobot",
-      "source": "github"
-    },
-    "eb2062c89e898c6a": {
-      "date": "2026-01-25",
-      "title": "I Rewrote Google's Gemini CLI in Go - 68x Faster Startup",
-      "source": "devto"
-    },
-    "3fa220a97856d084": {
-      "date": "2026-01-25",
-      "title": "Boniface.dev — An AI Operator Portfolio Built with Gemini on Cloud Run",
-      "source": "devto"
-    },
-    "00f51b09ad6b7e75": {
-      "date": "2026-01-25",
-      "title": "I Vibe-Coded a Quantum Synthesizer: A Reality Check on the State of Qubits",
-      "source": "devto"
-    },
-    "d74153c36d1540f7": {
-      "date": "2026-01-25",
-      "title": "Don’t Learn DevOps Before Understanding Web Development",
-      "source": "devto"
-    },
-    "6ad195b3e5786c98": {
-      "date": "2026-01-25",
-      "title": "Why We Suddenly Have Developers Who Can't Think in Systems",
-      "source": "devto"
-    },
-    "4e1ad63a1f81671b": {
-      "date": "2026-01-25",
-      "title": "Mother CLAUDE: Automating Everything with Hooks",
-      "source": "devto"
-    },
-    "4ee5e3d3de21e3bb": {
-      "date": "2026-01-25",
-      "title": "React Render vs Commit: What Actually Happens (DOM vs React Native)",
-      "source": "devto"
-    },
-    "48fbea3ad62af39c": {
-      "date": "2026-01-25",
-      "title": "A Management Guide for Hands-On Leaders",
-      "source": "devto"
-    },
-    "7ec5eb0a97a142d2": {
-      "date": "2026-01-25",
-      "title": "Java Finally Gets TOON Support: json-io 4.85.0",
-      "source": "devto"
-    },
-    "01a48bfefbc252e6": {
-      "date": "2026-01-25",
-      "title": "I Lost 25% of a Form by Scrolling Up. Nobody Noticed.",
-      "source": "devto"
-    },
-    "d28f2f8bdfff1eba": {
-      "date": "2026-01-25",
-      "title": "Wake: Give Claude Code visibility into your terminal history",
-      "source": "devto"
-    },
-    "3f8f762d26b19aee": {
-      "date": "2026-01-25",
-      "title": "Hyoi",
-      "source": "producthunt"
-    },
-    "85d06931e92a77cd": {
-      "date": "2026-01-25",
-      "title": "Thumbfa.st",
-      "source": "producthunt"
-    },
-    "c664ec10cd891bc8": {
-      "date": "2026-01-25",
-      "title": "Liquid Timer v2",
-      "source": "producthunt"
-    },
-    "35a6589cd8e2c95c": {
-      "date": "2026-01-25",
-      "title": "Mochi Focus",
-      "source": "producthunt"
-    },
-    "2f60a5f6fe10f43f": {
-      "date": "2026-01-25",
-      "title": "Pola Browser",
-      "source": "producthunt"
-    },
-    "ccde4b60a862f4bf": {
-      "date": "2026-01-25",
-      "title": "Sometimes: A Poem Arrives",
-      "source": "producthunt"
-    },
-    "c2cf9bd178afb4f9": {
-      "date": "2026-01-25",
-      "title": "GetThis",
-      "source": "producthunt"
-    },
-    "2a180e82ce35d45f": {
-      "date": "2026-01-25",
-      "title": "Youtube Custom Playback",
-      "source": "producthunt"
-    },
-    "dd3071d7ed7d87c9": {
-      "date": "2026-01-25",
-      "title": "Like digging 'your own grave': The translators grappling with losing work to AI",
-      "source": "hackernews"
-    },
-    "7c6bc88bedceb68e": {
-      "date": "2026-01-25",
-      "title": "BrainLoom",
-      "source": "producthunt"
-    },
-    "87f90cae664edd5b": {
-      "date": "2026-01-25",
-      "title": "Deutsche Telekom is violating Net Neutrality",
-      "source": "hackernews"
-    },
-    "99403d9642dfb445": {
-      "date": "2026-01-25",
-      "title": "Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators",
-      "source": "hackernews"
-    },
-    "9fa65ffcff699ddc": {
-      "date": "2026-01-25",
-      "title": "Intrinsically stretchable 2D MoS2 transistors",
-      "source": "hackernews"
-    },
-    "ca087b7cc91bf555": {
-      "date": "2026-01-25",
-      "title": "This paper has been cited more than 6k times. It's fatally flawed.",
-      "source": "hackernews"
-    },
-    "9f2d27c62bfdb86f": {
-      "date": "2026-01-25",
-      "title": "Humans in the Loop",
-      "source": "producthunt"
-    },
-    "eb11df0a69adb23f": {
-      "date": "2026-01-25",
-      "title": "German economists push for gold repatriation from U.S. vaults",
-      "source": "hackernews"
-    },
-    "f1726815836f4c8a": {
-      "date": "2026-01-25",
-      "title": "qarmin / czkawka",
-      "source": "github"
-    },
-    "1a57528ba5a4a035": {
-      "date": "2026-01-25",
-      "title": "openai / codex",
-      "source": "github"
-    },
-    "c48c82e47f720318": {
-      "date": "2026-01-25",
-      "title": "supermemoryai / supermemory",
-      "source": "github"
-    },
-    "42c706b7a06eb7f7": {
-      "date": "2026-01-25",
-      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "source": "hackernews"
-    },
-    "de6e324fae0ef40d": {
-      "date": "2026-01-25",
-      "title": "Introduction to PostgreSQL Indexes",
-      "source": "hackernews"
-    },
-    "8300e967204a2d88": {
-      "date": "2026-01-25",
-      "title": "BU-808: How to Prolong Lithium-based Batteries (2023)",
-      "source": "hackernews"
-    },
-    "02084588e5c1a585": {
-      "date": "2026-01-25",
-      "title": "vCPUs are a marketing scam",
-      "source": "devto"
-    },
-    "861194a408b8de11": {
-      "date": "2026-01-25",
-      "title": "Programming Tech That Ages Well Versus Tools That Rot Fast",
-      "source": "devto"
-    },
-    "db50c522bed471a0": {
-      "date": "2026-01-25",
-      "title": "Pingora Guide - How To Make A Programmable API Gateway",
-      "source": "devto"
-    },
-    "9c61a9218cc9e8ad": {
-      "date": "2026-01-25",
-      "title": "I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser",
-      "source": "devto"
-    },
-    "47692a2ab4407f45": {
-      "date": "2026-01-25",
-      "title": "Show HN: Bonsplit – tabs and splits for native macOS apps",
-      "source": "hackernews"
-    },
-    "33f18f79558a35f7": {
-      "date": "2026-01-25",
-      "title": "Show HN: TUI for managing XDG default applications",
-      "source": "hackernews"
-    },
-    "93d4f35ee7661219": {
-      "date": "2026-01-25",
-      "title": "LLMs Don't Hallucinate – They Drift",
-      "source": "hackernews"
-    },
-    "25cefde6272c6c57": {
-      "date": "2026-01-25",
-      "title": "【GAS x Gemini】Prompt to Create an In-house Web App with UI/UX Awareness in 15 Minutes",
-      "source": "devto"
-    },
-    "6263547bcf28b051": {
-      "date": "2026-01-25",
-      "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
-      "source": "hackernews"
-    },
-    "77e5a4fe1d53379d": {
-      "date": "2026-01-25",
-      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "source": "hackernews"
-    },
-    "97505a0496b5816a": {
-      "date": "2026-01-25",
-      "title": "Bridging the Gap Between PLECS and SPICE",
-      "source": "hackernews"
-    },
-    "f87976d035ea886e": {
-      "date": "2026-01-25",
-      "title": "Iran Protest Death Toll Could Top 30k, According to Local Health Officials",
-      "source": "hackernews"
-    },
-    "0343096007eb908e": {
-      "date": "2026-01-25",
-      "title": "Doom has been ported to an earbud",
-      "source": "hackernews"
-    },
-    "244a4a34280074f6": {
-      "date": "2026-01-25",
-      "title": "UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'",
-      "source": "hackernews"
-    },
-    "53b84441af3c46fc": {
-      "date": "2026-01-25",
-      "title": "Web-based image editor modeled after Deluxe Paint",
-      "source": "hackernews"
-    },
-    "f56a98dbb984e38b": {
-      "date": "2026-01-25",
-      "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
-      "source": "hackernews"
-    },
-    "3b3258f1643510aa": {
-      "date": "2026-01-25",
-      "title": "I Was Mid-Setup When I Built the Skill That Finished Setting It Up",
-      "source": "devto"
-    },
-    "3ec903c82d1b835b": {
-      "date": "2026-01-25",
-      "title": "The #1 sentence I add to prompts that makes them better",
-      "source": "devto"
-    },
-    "8d5c41bc278ce7ce": {
-      "date": "2026-01-25",
-      "title": "A macOS app that blurs your screen when you slouch",
-      "source": "hackernews"
-    },
-    "2f29fef041f5b334": {
-      "date": "2026-01-25",
-      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-      "source": "hackernews"
-    },
-    "1ccab8b70293284b": {
-      "date": "2026-01-25",
-      "title": "Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I've done",
-      "source": "devto"
-    },
-    "58d92413f76f907b": {
-      "date": "2026-01-25",
-      "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
-      "source": "hackernews"
-    },
-    "092fddc3607b385d": {
-      "date": "2026-01-25",
-      "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
-      "source": "hackernews"
-    },
-    "d8324f9e75310cdb": {
-      "date": "2026-01-25",
-      "title": "World’s most powerful literary critic is on TikTok",
-      "source": "hackernews"
-    },
-    "b335422aee969077": {
-      "date": "2026-01-25",
-      "title": "Publishing on the ATmosphere",
-      "source": "hackernews"
-    },
-    "d69336e6b5f45bc3": {
-      "date": "2026-01-25",
-      "title": "The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom",
-      "source": "hackernews"
-    },
-    "1508c25f538f6f61": {
-      "date": "2026-01-25",
-      "title": "First, Make Me Care",
-      "source": "hackernews"
-    },
-    "b8c2eb9f1e593b16": {
-      "date": "2026-01-25",
-      "title": "Spanish track was fractured before high-speed train disaster, report finds",
-      "source": "hackernews"
-    },
-    "38c401d6668f08bb": {
-      "date": "2026-01-25",
-      "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
-      "source": "hackernews"
-    },
-    "89dd52b245d5ae40": {
-      "date": "2026-01-25",
-      "title": "I was right about ATProto key management",
-      "source": "hackernews"
-    },
-    "3b9655188bf659d2": {
-      "date": "2026-01-25",
-      "title": "AI Tribalism",
-      "source": "hackernews"
-    },
-    "ddef10be0562cdd9": {
-      "date": "2026-01-25",
-      "title": "Canada",
-      "source": "hackernews"
-    },
-    "60ae1b3d04000745": {
-      "date": "2026-01-25",
-      "title": "The '3.5% rule': How a small minority can change the world",
-      "source": "hackernews"
-    },
-    "6be68c9d28029f1a": {
-      "date": "2026-01-25",
-      "title": "Why NaN !== NaN Makes Perfect Sense (I Promise)",
-      "source": "devto"
-    },
-    "ceec4cd4f5f3b9cd": {
-      "date": "2026-01-25",
-      "title": "Hackable personal news reader in bash pipes",
-      "source": "hackernews"
-    },
-    "712ca8a15cd6959c": {
-      "date": "2026-01-25",
-      "title": "Psiphon-Inc / conduit",
-      "source": "github"
-    },
-    "8f36a1f6510d2104": {
-      "date": "2026-01-25",
-      "title": "The behavioral cost of personalized pricing",
-      "source": "hackernews"
-    },
-    "d61eedd56ed45e42": {
-      "date": "2026-01-25",
-      "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
-      "source": "hackernews"
-    },
-    "0fe3e1f21a92ca66": {
-      "date": "2026-01-25",
-      "title": "Show HN: An interactive map of US lighthouses and navigational aids",
-      "source": "hackernews"
-    },
     "13eefa93f55767c2": {
       "date": "2026-01-26",
       "title": "Case study: Creative math – How AI fakes proofs",
@@ -5510,6 +5050,171 @@
     "3db65f772405599e": {
       "date": "2026-02-24",
       "title": "openemr / openemr",
+      "source": "github"
+    },
+    "faea15102266a711": {
+      "date": "2026-02-25",
+      "title": "Mercury 2",
+      "source": "producthunt"
+    },
+    "0cd56e121c49a5ae": {
+      "date": "2026-02-25",
+      "title": "Arzule",
+      "source": "producthunt"
+    },
+    "ce8620f2b3648316": {
+      "date": "2026-02-25",
+      "title": "Notion Custom Agents",
+      "source": "producthunt"
+    },
+    "6bb41e475509217a": {
+      "date": "2026-02-25",
+      "title": "PeonPing",
+      "source": "producthunt"
+    },
+    "75b78f1fbcd8a224": {
+      "date": "2026-02-25",
+      "title": "Draftwise Playbook Studio",
+      "source": "producthunt"
+    },
+    "bdbb5d5465bf6df6": {
+      "date": "2026-02-25",
+      "title": "Orca",
+      "source": "producthunt"
+    },
+    "d89bc6fa8e5ae81c": {
+      "date": "2026-02-25",
+      "title": "DemoMe",
+      "source": "producthunt"
+    },
+    "8cff9187b6945972": {
+      "date": "2026-02-25",
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "source": "hackernews"
+    },
+    "c14231565e77cb06": {
+      "date": "2026-02-25",
+      "title": "The Om Programming Language",
+      "source": "hackernews"
+    },
+    "94fbe1be2769e33a": {
+      "date": "2026-02-25",
+      "title": "Jimi Hendrix was a systems engineer",
+      "source": "hackernews"
+    },
+    "fb001081fb5fd644": {
+      "date": "2026-02-25",
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "source": "hackernews"
+    },
+    "861bebf1a412a0f4": {
+      "date": "2026-02-25",
+      "title": "Windows 11 Notepad to support Markdown",
+      "source": "hackernews"
+    },
+    "f6781b6693b0cd19": {
+      "date": "2026-02-25",
+      "title": "The First Fully General Computer Action Model",
+      "source": "hackernews"
+    },
+    "ac1b08a50d0b2573": {
+      "date": "2026-02-25",
+      "title": "Making MCP cheaper via CLI",
+      "source": "hackernews"
+    },
+    "193e53dbb3ae6d8d": {
+      "date": "2026-02-25",
+      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+      "source": "hackernews"
+    },
+    "8a80dd4c53d7aa94": {
+      "date": "2026-02-25",
+      "title": "Learnings from 4 months of Image-Video VAE experiments",
+      "source": "hackernews"
+    },
+    "e5453934753a14f7": {
+      "date": "2026-02-25",
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "source": "hackernews"
+    },
+    "32e797feba9d0f2e": {
+      "date": "2026-02-25",
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win ",
+      "source": "devto"
+    },
+    "c7d1abe6250fde7d": {
+      "date": "2026-02-25",
+      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
+      "source": "devto"
+    },
+    "7cbd0e092baa2117": {
+      "date": "2026-02-25",
+      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
+      "source": "devto"
+    },
+    "204b632d6cf244ec": {
+      "date": "2026-02-25",
+      "title": "16 Modern JavaScript Features That Might Blow Your Mind",
+      "source": "devto"
+    },
+    "89d379fefeccb787": {
+      "date": "2026-02-25",
+      "title": "How to Make Your API Agent-Ready: Design Principles for the Agentic Era",
+      "source": "devto"
+    },
+    "71fca8bd66cd5df5": {
+      "date": "2026-02-25",
+      "title": "PyLadies Dublin x Dublin C++ Feb 2026",
+      "source": "devto"
+    },
+    "ee3c3fe87da33c97": {
+      "date": "2026-02-25",
+      "title": "Code Without Purpose",
+      "source": "devto"
+    },
+    "f34ac3f64d2c8c2b": {
+      "date": "2026-02-25",
+      "title": "Welcome Thread - v366",
+      "source": "devto"
+    },
+    "03fe15f635feb11c": {
+      "date": "2026-02-25",
+      "title": "I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here's Why",
+      "source": "devto"
+    },
+    "6c3f27e78ceb2415": {
+      "date": "2026-02-25",
+      "title": "Catching Breaking API Changes Before Production (with a Chrome Extension)",
+      "source": "devto"
+    },
+    "150ed4f8b5463679": {
+      "date": "2026-02-25",
+      "title": "datawhalechina / hello-agents",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-02-25",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "5fc099b31494892d": {
+      "date": "2026-02-25",
+      "title": "NVIDIA / Megatron-LM",
+      "source": "github"
+    },
+    "a09f21e37d73301d": {
+      "date": "2026-02-25",
+      "title": "shareAI-lab / learn-claude-code",
+      "source": "github"
+    },
+    "181a7629fe891965": {
+      "date": "2026-02-25",
+      "title": "katanemo / plano",
+      "source": "github"
+    },
+    "3bd1cfbeb98c86c7": {
+      "date": "2026-02-25",
+      "title": "liyupi / ai-guide",
       "source": "github"
     }
   }
