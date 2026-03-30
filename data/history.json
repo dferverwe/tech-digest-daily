@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-03-29T23:02:32.058922",
+  "last_updated": "2026-03-30T23:07:04.804872",
   "sent_items": {
     "6d759dd0e9e4a64e": {
       "date": "2026-03-01",
@@ -4700,6 +4700,151 @@
     "9b431387df4711e4": {
       "date": "2026-03-29",
       "title": "fastfetch-cli / fastfetch",
+      "source": "github"
+    },
+    "959c7b48ff3a8fd3": {
+      "date": "2026-03-30",
+      "title": "Bluor AI",
+      "source": "producthunt"
+    },
+    "58912b4276df8ccc": {
+      "date": "2026-03-30",
+      "title": "Invoke",
+      "source": "producthunt"
+    },
+    "2b09e93a8eb00ac5": {
+      "date": "2026-03-30",
+      "title": "Git Blog",
+      "source": "producthunt"
+    },
+    "96818286a84540c5": {
+      "date": "2026-03-30",
+      "title": "dictate.",
+      "source": "producthunt"
+    },
+    "e9f752df0ffb3371": {
+      "date": "2026-03-30",
+      "title": "PopTask",
+      "source": "producthunt"
+    },
+    "be437db9f3765eac": {
+      "date": "2026-03-30",
+      "title": "Diploi",
+      "source": "producthunt"
+    },
+    "471e0c33311161b1": {
+      "date": "2026-03-30",
+      "title": "Blood Sugar Journal",
+      "source": "producthunt"
+    },
+    "31592de3022b48a9": {
+      "date": "2026-03-30",
+      "title": "How to turn anything into a router",
+      "source": "hackernews"
+    },
+    "f1129ed29a9a5d5b": {
+      "date": "2026-03-30",
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "source": "hackernews"
+    },
+    "a187d5aa07e422dd": {
+      "date": "2026-03-30",
+      "title": "Do your own writing",
+      "source": "hackernews"
+    },
+    "1fa6ad496d1a4ca0": {
+      "date": "2026-03-30",
+      "title": "Bird brains (2023)",
+      "source": "hackernews"
+    },
+    "c314922ceeef9f26": {
+      "date": "2026-03-30",
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "source": "hackernews"
+    },
+    "aaf976c3041f3f04": {
+      "date": "2026-03-30",
+      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+      "source": "hackernews"
+    },
+    "9675d983f4140508": {
+      "date": "2026-03-30",
+      "title": "Learn Claude Code by doing, not reading",
+      "source": "hackernews"
+    },
+    "340aa308e3170cde": {
+      "date": "2026-03-30",
+      "title": "Android Developer Verification",
+      "source": "hackernews"
+    },
+    "94e669a25a097f0e": {
+      "date": "2026-03-30",
+      "title": "Agents of Chaos",
+      "source": "hackernews"
+    },
+    "c6ab5b9d90c24cfa": {
+      "date": "2026-03-30",
+      "title": "The stealthy startup that pitched brainless human clones",
+      "source": "hackernews"
+    },
+    "e417cda618d2425e": {
+      "date": "2026-03-30",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "16034daf1f011ba5": {
+      "date": "2026-03-30",
+      "title": "What are your goals for the week? #172",
+      "source": "devto"
+    },
+    "2219bef88d6f196a": {
+      "date": "2026-03-30",
+      "title": "CodePen TV secrets",
+      "source": "devto"
+    },
+    "d18477e03206db54": {
+      "date": "2026-03-30",
+      "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
+      "source": "devto"
+    },
+    "d600a6bdde855fe4": {
+      "date": "2026-03-30",
+      "title": "When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me",
+      "source": "devto"
+    },
+    "38fa62306cc69a9a": {
+      "date": "2026-03-30",
+      "title": "I Built a Piano Trainer That Measures Stability, Not Just Speed",
+      "source": "devto"
+    },
+    "f81d400baaa61d99": {
+      "date": "2026-03-30",
+      "title": "Agents Don't Just Do Unauthorized Things. They Cause Humans to Do Unauthorized Things.",
+      "source": "devto"
+    },
+    "5d9c59001552274b": {
+      "date": "2026-03-30",
+      "title": "NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠",
+      "source": "devto"
+    },
+    "40c37259975d86e3": {
+      "date": "2026-03-30",
+      "title": "Keep_AS — The System That Refuses to Let You Miss Opportunities",
+      "source": "devto"
+    },
+    "e10221e97c886566": {
+      "date": "2026-03-30",
+      "title": "Reflective — AI journaling companion built with Notion MCP and Claude",
+      "source": "devto"
+    },
+    "52e5d1d72c1088d2": {
+      "date": "2026-03-30",
+      "title": "freeCodeCamp / freeCodeCamp",
+      "source": "github"
+    },
+    "be490188feb3a8f7": {
+      "date": "2026-03-30",
+      "title": "sherlock-project / sherlock",
       "source": "github"
     }
   }
