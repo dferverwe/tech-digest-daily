@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-19T23:44:15.563244",
+  "last_updated": "2026-06-20T23:47:33.807794",
   "sent_items": {
-    "a2275a41ec085c35": {
-      "date": "2026-05-20",
-      "title": "Viberia",
-      "source": "producthunt"
-    },
-    "129c3f36ed58c9e9": {
-      "date": "2026-05-20",
-      "title": "Runtime",
-      "source": "producthunt"
-    },
-    "b5fae5dc8670619e": {
-      "date": "2026-05-20",
-      "title": "Retina",
-      "source": "producthunt"
-    },
-    "8add99e465379bee": {
-      "date": "2026-05-20",
-      "title": "Re_gent",
-      "source": "producthunt"
-    },
-    "54f40b7fbd171913": {
-      "date": "2026-05-20",
-      "title": "GhostSnap",
-      "source": "producthunt"
-    },
-    "bebae48e101e46db": {
-      "date": "2026-05-20",
-      "title": "Emdash",
-      "source": "producthunt"
-    },
-    "3ade497109f5ed9b": {
-      "date": "2026-05-20",
-      "title": "LayerProof Kraft",
-      "source": "producthunt"
-    },
-    "a563cf46230521ac": {
-      "date": "2026-05-20",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "hackernews"
-    },
-    "d085b968c3b861a6": {
-      "date": "2026-05-20",
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "source": "hackernews"
-    },
-    "2590d53291e03f5d": {
-      "date": "2026-05-20",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "source": "hackernews"
-    },
-    "4d18fc43ae6196ed": {
-      "date": "2026-05-20",
-      "title": "How fast is N tokens per second really?",
-      "source": "hackernews"
-    },
-    "3c5066a31fffac5b": {
-      "date": "2026-05-20",
-      "title": "Google Declaring War on the Web",
-      "source": "hackernews"
-    },
-    "737a39080d7ef5fa": {
-      "date": "2026-05-20",
-      "title": "Flipper One Tech Specs",
-      "source": "hackernews"
-    },
-    "13871fa6d70c48c5": {
-      "date": "2026-05-20",
-      "title": "Why is Inkwell stuck in review",
-      "source": "hackernews"
-    },
-    "6c4b3e1f663eb6b4": {
-      "date": "2026-05-20",
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "source": "hackernews"
-    },
-    "53eed4ab17b71cd3": {
-      "date": "2026-05-20",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "source": "hackernews"
-    },
-    "67d6d0b7939451d1": {
-      "date": "2026-05-20",
-      "title": "DOS Zone",
-      "source": "hackernews"
-    },
-    "e63901537f3f908f": {
-      "date": "2026-05-20",
-      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "source": "devto"
-    },
-    "28399ceec4c45c76": {
-      "date": "2026-05-20",
-      "title": "Working With Japanese Clients Humbled Me Faster Than I Expected",
-      "source": "devto"
-    },
-    "66de56cd0514fa95": {
-      "date": "2026-05-20",
-      "title": "MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does",
-      "source": "devto"
-    },
-    "75c159a38283a6db": {
-      "date": "2026-05-20",
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "source": "devto"
-    },
-    "f711dcd7e4a02ace": {
-      "date": "2026-05-20",
-      "title": "Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
-      "source": "devto"
-    },
-    "25645a92a4bc321c": {
-      "date": "2026-05-20",
-      "title": "Book Review: Operational AI with Docker",
-      "source": "devto"
-    },
-    "021c9fb4252c7575": {
-      "date": "2026-05-20",
-      "title": "The Mid-Dev Paradox: Why Juniors Are Chill and Mid-Levels Will Reorganize Your Code at 3 AM",
-      "source": "devto"
-    },
-    "bd9a457f58c8c68d": {
-      "date": "2026-05-20",
-      "title": "Care Compass: Pairing Gemma 4 With Signed Policy Evidence for Healthcare Navigation",
-      "source": "devto"
-    },
-    "66786af3b05d9d38": {
-      "date": "2026-05-20",
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "source": "devto"
-    },
-    "fdd97241832549b7": {
-      "date": "2026-05-20",
-      "title": "Google I/O Just Made MCP Inevitable",
-      "source": "devto"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-05-20",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "5486dec8b59ab192": {
-      "date": "2026-05-20",
-      "title": "can1357 / oh-my-pi",
-      "source": "github"
-    },
-    "7a316c2020cf1bb3": {
-      "date": "2026-05-20",
-      "title": "rmyndharis / OpenWA",
-      "source": "github"
-    },
-    "0f8d1af67ba3e667": {
-      "date": "2026-05-20",
-      "title": "truelockmc / streambert",
-      "source": "github"
-    },
-    "e728c868e24d753b": {
-      "date": "2026-05-20",
-      "title": "opentoonz / opentoonz",
-      "source": "github"
-    },
     "7144b014c9d73af3": {
       "date": "2026-05-21",
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
@@ -4991,6 +4831,156 @@
       "date": "2026-06-19",
       "title": "Stop paying for the same tokens twice",
       "source": "devto"
+    },
+    "8ce743d51ee4a11f": {
+      "date": "2026-06-20",
+      "title": "ReleaseDock",
+      "source": "producthunt"
+    },
+    "f58bd999f96164c8": {
+      "date": "2026-06-20",
+      "title": "Pixlie",
+      "source": "producthunt"
+    },
+    "dc9cbd876d6e1f89": {
+      "date": "2026-06-20",
+      "title": "Slackbot’s MCP Client",
+      "source": "producthunt"
+    },
+    "05c04b6fec7cb814": {
+      "date": "2026-06-20",
+      "title": "Are you in the Weights?",
+      "source": "producthunt"
+    },
+    "19f8a4ca34dab5c3": {
+      "date": "2026-06-20",
+      "title": "pumaDB",
+      "source": "producthunt"
+    },
+    "70c7411d6ef2aea6": {
+      "date": "2026-06-20",
+      "title": "Reframe",
+      "source": "producthunt"
+    },
+    "6ce22d880a7d3545": {
+      "date": "2026-06-20",
+      "title": "GitSync for macOS",
+      "source": "producthunt"
+    },
+    "5a60fcd9ee73131e": {
+      "date": "2026-06-20",
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "source": "hackernews"
+    },
+    "18af52ad9fea7164": {
+      "date": "2026-06-20",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "source": "hackernews"
+    },
+    "c75edcbe8313f72c": {
+      "date": "2026-06-20",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "source": "hackernews"
+    },
+    "7850086478fa3f06": {
+      "date": "2026-06-20",
+      "title": "Pre-2022 Books",
+      "source": "hackernews"
+    },
+    "285773f4818b4a71": {
+      "date": "2026-06-20",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "source": "hackernews"
+    },
+    "4428f36051617740": {
+      "date": "2026-06-20",
+      "title": "Inference cost at scale with napkin math",
+      "source": "hackernews"
+    },
+    "dc20851c2b48c21a": {
+      "date": "2026-06-20",
+      "title": "Not just books: renting a sewing machine from the library can improve democracy",
+      "source": "hackernews"
+    },
+    "80941dbae2cfcf47": {
+      "date": "2026-06-20",
+      "title": "Alice is impatient",
+      "source": "hackernews"
+    },
+    "69677a1ebc2e3d3c": {
+      "date": "2026-06-20",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "source": "hackernews"
+    },
+    "6e70f48cceac3aac": {
+      "date": "2026-06-20",
+      "title": "Epoll vs. Io_uring in Linux",
+      "source": "hackernews"
+    },
+    "fb9702a59206af19": {
+      "date": "2026-06-20",
+      "title": "Fruit Dash: A Solstice Platformer with Binary Code Gates",
+      "source": "devto"
+    },
+    "3488bc28a7ea780f": {
+      "date": "2026-06-20",
+      "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
+      "source": "devto"
+    },
+    "5a182f4a51245abd": {
+      "date": "2026-06-20",
+      "title": "⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙",
+      "source": "devto"
+    },
+    "392b41342168eb44": {
+      "date": "2026-06-20",
+      "title": "Rebuilding a Divi Blog with Custom Shortcodes: A Field Report",
+      "source": "devto"
+    },
+    "1594b153fef2210d": {
+      "date": "2026-06-20",
+      "title": "ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's Last AI, Interrogated by a Live Gemin",
+      "source": "devto"
+    },
+    "b46649f307148f40": {
+      "date": "2026-06-20",
+      "title": "Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam",
+      "source": "devto"
+    },
+    "b7d8a634e631a409": {
+      "date": "2026-06-20",
+      "title": "I Benchmarked 17 Image Conversions on My Production Server. Some Results Were Not What I Expected.",
+      "source": "devto"
+    },
+    "526fff8d5c9655c1": {
+      "date": "2026-06-20",
+      "title": "AI memory should be a product state, not a prompt trick",
+      "source": "devto"
+    },
+    "0baefb5c932a8431": {
+      "date": "2026-06-20",
+      "title": "I automated everything except the code, and that's where Claude Code actually paid off",
+      "source": "devto"
+    },
+    "cf18a45dc2f21a47": {
+      "date": "2026-06-20",
+      "title": "Among Liars -> The 7th Player Isn't Human",
+      "source": "devto"
+    },
+    "0bad1edbad8117de": {
+      "date": "2026-06-20",
+      "title": "tursodatabase / turso",
+      "source": "github"
+    },
+    "390f5316113d12d5": {
+      "date": "2026-06-20",
+      "title": "tw93 / Pake",
+      "source": "github"
+    },
+    "bfeff07f7d8682f0": {
+      "date": "2026-06-20",
+      "title": "jamiepine / voicebox",
+      "source": "github"
     }
   }
 }
