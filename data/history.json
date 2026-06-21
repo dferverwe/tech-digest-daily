@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-20T23:47:33.807794",
+  "last_updated": "2026-06-21T23:53:39.140338",
   "sent_items": {
-    "7144b014c9d73af3": {
-      "date": "2026-05-21",
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "source": "hackernews"
-    },
-    "832d41d937baf964": {
-      "date": "2026-05-21",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "source": "hackernews"
-    },
-    "db09856a17f56f06": {
-      "date": "2026-05-21",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "source": "hackernews"
-    },
-    "2c49ccd7924ce3cc": {
-      "date": "2026-05-21",
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "source": "hackernews"
-    },
-    "9dca8a63f4d5b20f": {
-      "date": "2026-05-21",
-      "title": "Was my $48K GPU server worth it?",
-      "source": "hackernews"
-    },
-    "53570bf79c740f52": {
-      "date": "2026-05-21",
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "source": "hackernews"
-    },
-    "29706d72a8c78f2a": {
-      "date": "2026-05-21",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "source": "hackernews"
-    },
-    "87c844aa4ed71d34": {
-      "date": "2026-05-21",
-      "title": "Using Kagi Search with Low Vision",
-      "source": "hackernews"
-    },
-    "7ea7b18926058d7e": {
-      "date": "2026-05-21",
-      "title": "Spotify will start reserving concert tickets for fans",
-      "source": "hackernews"
-    },
-    "b6964f51cef74268": {
-      "date": "2026-05-21",
-      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "source": "hackernews"
-    },
-    "a0544c80335e006b": {
-      "date": "2026-05-21",
-      "title": "Mintlify Workflows",
-      "source": "producthunt"
-    },
-    "81f72d4a785cff22": {
-      "date": "2026-05-21",
-      "title": "Framed",
-      "source": "producthunt"
-    },
-    "dbf777184f2f3969": {
-      "date": "2026-05-21",
-      "title": "Mixpanel Headless",
-      "source": "producthunt"
-    },
-    "f6b0e869532f265c": {
-      "date": "2026-05-21",
-      "title": "Tycoon AI",
-      "source": "producthunt"
-    },
-    "ec78947b847836b0": {
-      "date": "2026-05-21",
-      "title": "AlliHat",
-      "source": "producthunt"
-    },
-    "2d03e000afa0d1c6": {
-      "date": "2026-05-21",
-      "title": "AutoSubtitles 2.0",
-      "source": "producthunt"
-    },
-    "f1dbbff7e0ffed28": {
-      "date": "2026-05-21",
-      "title": "Vivaldi 8.0",
-      "source": "producthunt"
-    },
-    "732bbe39cb800745": {
-      "date": "2026-05-21",
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "source": "devto"
-    },
-    "d134d8611cee3c83": {
-      "date": "2026-05-21",
-      "title": "Every Developer Is Lying About Something — And AI Won’t Fix It",
-      "source": "devto"
-    },
-    "6b3ec45e2cdfc3b6": {
-      "date": "2026-05-21",
-      "title": "From Years to Hours",
-      "source": "devto"
-    },
-    "05c3f5038c079e7d": {
-      "date": "2026-05-21",
-      "title": "Open Source Toolkit for Building AI Agents in 2026",
-      "source": "devto"
-    },
-    "74c50b3ca07b601c": {
-      "date": "2026-05-21",
-      "title": "I Used to Get Excited About New Tools Now I Feel Tired.",
-      "source": "devto"
-    },
-    "82d82f6f2c086ab2": {
-      "date": "2026-05-21",
-      "title": "Recycling made easy: a Polish recycling assistant powered by Gemma 4",
-      "source": "devto"
-    },
-    "04ef14e8b26ff63e": {
-      "date": "2026-05-21",
-      "title": "Building a Database Performance Testing Tool With AI: The Honest Breakdown",
-      "source": "devto"
-    },
-    "1482f8e34c952fa1": {
-      "date": "2026-05-21",
-      "title": "Frameworks Are No Longer Being Designed Only for Humans",
-      "source": "devto"
-    },
-    "5ad7a92decb2d980": {
-      "date": "2026-05-21",
-      "title": "Seasons time-lapse - the foundations",
-      "source": "devto"
-    },
-    "a08046dc3290f958": {
-      "date": "2026-05-21",
-      "title": "Accessibility - This looks like a job for a developer advocate!",
-      "source": "devto"
-    },
-    "5acadd2fc4547853": {
-      "date": "2026-05-21",
-      "title": "dotnet / skills",
-      "source": "github"
-    },
-    "b4212d4b4d442e7e": {
-      "date": "2026-05-21",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "source": "github"
-    },
-    "d1175731313615bc": {
-      "date": "2026-05-21",
-      "title": "teng-lin / notebooklm-py",
-      "source": "github"
-    },
-    "c4933f0e2181e2eb": {
-      "date": "2026-05-21",
-      "title": "multica-ai / multica",
-      "source": "github"
-    },
-    "895071a713eeaa7c": {
-      "date": "2026-05-21",
-      "title": "trimstray / the-book-of-secret-knowledge",
-      "source": "github"
-    },
     "cc413bff4bccb030": {
       "date": "2026-05-22",
       "title": "Why Japanese companies do so many different things",
@@ -4980,6 +4820,166 @@
     "bfeff07f7d8682f0": {
       "date": "2026-06-20",
       "title": "jamiepine / voicebox",
+      "source": "github"
+    },
+    "ead6b93e051102f5": {
+      "date": "2026-06-21",
+      "title": "Identity verification on Claude",
+      "source": "hackernews"
+    },
+    "7d71e6815adec316": {
+      "date": "2026-06-21",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "source": "hackernews"
+    },
+    "9ab140b948c262b2": {
+      "date": "2026-06-21",
+      "title": "JSON-LD Explained for Personal Websites",
+      "source": "hackernews"
+    },
+    "ea5a45c3af5bf436": {
+      "date": "2026-06-21",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "source": "hackernews"
+    },
+    "9bd7a67eddd4600a": {
+      "date": "2026-06-21",
+      "title": "Did my old job only exist because of fraud?",
+      "source": "hackernews"
+    },
+    "e7bab2232f0d31e4": {
+      "date": "2026-06-21",
+      "title": "Everything Is Logarithms",
+      "source": "hackernews"
+    },
+    "57a790565b60efef": {
+      "date": "2026-06-21",
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "source": "hackernews"
+    },
+    "3972d0f81e54a4a6": {
+      "date": "2026-06-21",
+      "title": "PowerFox Browser",
+      "source": "hackernews"
+    },
+    "65171448dd1f4a6c": {
+      "date": "2026-06-21",
+      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
+      "source": "hackernews"
+    },
+    "35e25d4dec72c524": {
+      "date": "2026-06-21",
+      "title": "Simple hard way to conjugate Japanese verbs",
+      "source": "hackernews"
+    },
+    "60e190b4c0e4d95f": {
+      "date": "2026-06-21",
+      "title": "oioi",
+      "source": "producthunt"
+    },
+    "1305353225ad44ff": {
+      "date": "2026-06-21",
+      "title": "Grok by SpaceXAI for Word",
+      "source": "producthunt"
+    },
+    "5cb978d0985c1a75": {
+      "date": "2026-06-21",
+      "title": "Atomic Mail Agentic",
+      "source": "producthunt"
+    },
+    "bde3562d7fe1f73d": {
+      "date": "2026-06-21",
+      "title": "Laguna by Poolside",
+      "source": "producthunt"
+    },
+    "292664e7957d106b": {
+      "date": "2026-06-21",
+      "title": "Plansera AI",
+      "source": "producthunt"
+    },
+    "02c87d0c8bab43f6": {
+      "date": "2026-06-21",
+      "title": "Agent 37 Cloud",
+      "source": "producthunt"
+    },
+    "7db20e2dc913e34c": {
+      "date": "2026-06-21",
+      "title": "Notchkin",
+      "source": "producthunt"
+    },
+    "4c03872b4105b66f": {
+      "date": "2026-06-21",
+      "title": "Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.",
+      "source": "devto"
+    },
+    "96c48b17297c1d83": {
+      "date": "2026-06-21",
+      "title": "15 AI Stories Later, Some Honest Words",
+      "source": "devto"
+    },
+    "f137faa6d02558e1": {
+      "date": "2026-06-21",
+      "title": "(new) Bifrost Edge: MCP Visibility and Control for Enterprise Teams and Beyond 🔥",
+      "source": "devto"
+    },
+    "239ece87e9af1a82": {
+      "date": "2026-06-21",
+      "title": "When Judgment Becomes the Bottleneck",
+      "source": "devto"
+    },
+    "e9df813b512b103e": {
+      "date": "2026-06-21",
+      "title": "Solstice Crypt - Decrypt the Light",
+      "source": "devto"
+    },
+    "7f764d64c4f3a16a": {
+      "date": "2026-06-21",
+      "title": "From Prompting ChatGPT to Orchestrating AI Agents: Two Years as an Ordinary Engineer",
+      "source": "devto"
+    },
+    "ed85ad29e7ffbcc2": {
+      "date": "2026-06-21",
+      "title": "What Is an Array, Really? I'm Writing a Book to Find Out",
+      "source": "devto"
+    },
+    "5031edb1ad7611c0": {
+      "date": "2026-06-21",
+      "title": "The Playwright Playbook — Part 7: The CI/CD Setup Nobody Shows You",
+      "source": "devto"
+    },
+    "14a4448bb99442cb": {
+      "date": "2026-06-21",
+      "title": "Turing's Mirror - A Game About the Question We Still Haven't Answered",
+      "source": "devto"
+    },
+    "82a63756c4175cd6": {
+      "date": "2026-06-21",
+      "title": "Less Noise, More Labs: How I Actually Learned RF Hacking This Year",
+      "source": "devto"
+    },
+    "4ec6d5af71eebc5a": {
+      "date": "2026-06-21",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-06-21",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "f0139d905f3ca74b": {
+      "date": "2026-06-21",
+      "title": "mikumifa / biliTickerBuy",
+      "source": "github"
+    },
+    "d5c3c51d6e6ce977": {
+      "date": "2026-06-21",
+      "title": "smicallef / spiderfoot",
+      "source": "github"
+    },
+    "194bbbbcb050ad73": {
+      "date": "2026-06-21",
+      "title": "topoteretes / cognee",
       "source": "github"
     }
   }
