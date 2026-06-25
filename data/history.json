@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-24T23:45:51.989527",
+  "last_updated": "2026-06-25T23:55:51.119180",
   "sent_items": {
-    "ba72687c65df7c1d": {
-      "date": "2026-05-25",
-      "title": "Magnifica Humanitas",
-      "source": "hackernews"
-    },
-    "bde34891ebab88eb": {
-      "date": "2026-05-25",
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "source": "hackernews"
-    },
-    "aa5225c1f3a481f3": {
-      "date": "2026-05-25",
-      "title": "Exit IP VPN servers mitigation rollout",
-      "source": "hackernews"
-    },
-    "152e6e69b7bcf8b8": {
-      "date": "2026-05-25",
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "source": "hackernews"
-    },
-    "2555fa13492d8e2b": {
-      "date": "2026-05-25",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "source": "hackernews"
-    },
-    "136f495df83f81b0": {
-      "date": "2026-05-25",
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "source": "hackernews"
-    },
-    "ab8d3ab1b191c952": {
-      "date": "2026-05-25",
-      "title": "Hacker News front page as a site",
-      "source": "hackernews"
-    },
-    "b6d1babdb4ff7ccb": {
-      "date": "2026-05-25",
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "source": "hackernews"
-    },
-    "41c1c3275f7b391d": {
-      "date": "2026-05-25",
-      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-      "source": "hackernews"
-    },
-    "f140c4a58e809930": {
-      "date": "2026-05-25",
-      "title": "Nobody Cracks Open a Programming Book Anymore",
-      "source": "hackernews"
-    },
-    "ef5b70510d48886c": {
-      "date": "2026-05-25",
-      "title": "LLMTest",
-      "source": "producthunt"
-    },
-    "0c5dd2ff376d8089": {
-      "date": "2026-05-25",
-      "title": "Fred",
-      "source": "producthunt"
-    },
-    "2c2dffbbe3a6ea56": {
-      "date": "2026-05-25",
-      "title": "Pi Coding Agent",
-      "source": "producthunt"
-    },
-    "5ad445a77f153fa1": {
-      "date": "2026-05-25",
-      "title": "Yansu",
-      "source": "producthunt"
-    },
-    "5769a6ff6e50d728": {
-      "date": "2026-05-25",
-      "title": "Orchestria",
-      "source": "producthunt"
-    },
-    "4e4d43644fcc10e6": {
-      "date": "2026-05-25",
-      "title": "own.page",
-      "source": "producthunt"
-    },
-    "e5886300fb97361b": {
-      "date": "2026-05-25",
-      "title": "tldx",
-      "source": "producthunt"
-    },
-    "69c7e1d10392884d": {
-      "date": "2026-05-25",
-      "title": "MashuPack",
-      "source": "producthunt"
-    },
-    "ca28d28c43bc8fb5": {
-      "date": "2026-05-25",
-      "title": "Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your Ass",
-      "source": "devto"
-    },
-    "17977c5082d3ad67": {
-      "date": "2026-05-25",
-      "title": "Don’t let AI break your collective thinking: a practical guide for engineering teams",
-      "source": "devto"
-    },
-    "e2aa06feb39b46e1": {
-      "date": "2026-05-25",
-      "title": "MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos",
-      "source": "devto"
-    },
-    "026c8e420358c6d9": {
-      "date": "2026-05-25",
-      "title": "🛡️ PromptGuard: I Built a Local AI Privacy Firewall That Sanitizes Your Prompts Before They Leave Yo",
-      "source": "devto"
-    },
-    "2e50f076e37ee3bb": {
-      "date": "2026-05-25",
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "source": "devto"
-    },
-    "1989e8237ffaa8b7": {
-      "date": "2026-05-25",
-      "title": "Managing multiple docker hub accounts using docker-use",
-      "source": "devto"
-    },
-    "d372178fc2881529": {
-      "date": "2026-05-25",
-      "title": "Now I See Why Translators Are Panicking Over AI—Should Coders Panic Too?",
-      "source": "devto"
-    },
-    "e86ddf70fe372548": {
-      "date": "2026-05-25",
-      "title": "Why AI-Generated Code Is Always Good Enough — And Never Great",
-      "source": "devto"
-    },
-    "547822997e82da28": {
-      "date": "2026-05-25",
-      "title": "The Code Review Checklist I Actually Use",
-      "source": "devto"
-    },
-    "f8c21b45392ef4a7": {
-      "date": "2026-05-25",
-      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
-      "source": "devto"
-    },
-    "a90d342e2181a927": {
-      "date": "2026-05-25",
-      "title": "affaan-m / ECC",
-      "source": "github"
-    },
-    "9da20606e54ba5ed": {
-      "date": "2026-05-25",
-      "title": "paperless-ngx / paperless-ngx",
-      "source": "github"
-    },
-    "3f87148fc02bbcf5": {
-      "date": "2026-05-25",
-      "title": "anthropics / claude-cookbooks",
-      "source": "github"
-    },
-    "36584af2f7390ffc": {
-      "date": "2026-05-25",
-      "title": "Leonxlnx / taste-skill",
-      "source": "github"
-    },
-    "ebe69a8411ca36d3": {
-      "date": "2026-05-25",
-      "title": "moeru-ai / airi",
-      "source": "github"
-    },
-    "e7496fc47c432dbe": {
-      "date": "2026-05-25",
-      "title": "Axorax / awesome-free-apps",
-      "source": "github"
-    },
     "de63ec2014c0c808": {
       "date": "2026-05-26",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
@@ -5000,6 +4830,186 @@
     "ecac04eb8fd789a9": {
       "date": "2026-06-24",
       "title": "kunchenguid / no-mistakes",
+      "source": "github"
+    },
+    "a5ab93f91593d625": {
+      "date": "2026-06-25",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "source": "hackernews"
+    },
+    "15ed02d2a384386f": {
+      "date": "2026-06-25",
+      "title": "Oxide computer 3D rack guided tour",
+      "source": "hackernews"
+    },
+    "c2466f14c277cc4c": {
+      "date": "2026-06-25",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "source": "hackernews"
+    },
+    "a5f18e26a1f1ea96": {
+      "date": "2026-06-25",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "source": "hackernews"
+    },
+    "0c62baeff9bd40a0": {
+      "date": "2026-06-25",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "source": "hackernews"
+    },
+    "ebc5ea53f3fe04a6": {
+      "date": "2026-06-25",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "source": "hackernews"
+    },
+    "1f98068454037eed": {
+      "date": "2026-06-25",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "source": "hackernews"
+    },
+    "421a8873291fee7b": {
+      "date": "2026-06-25",
+      "title": "An oral history of Bank Python (2021)",
+      "source": "hackernews"
+    },
+    "bb866b9198a54e3e": {
+      "date": "2026-06-25",
+      "title": "Parallel Parentheses Matching",
+      "source": "hackernews"
+    },
+    "fa97414e1a81b365": {
+      "date": "2026-06-25",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "source": "hackernews"
+    },
+    "a64cfd340f6b38a2": {
+      "date": "2026-06-25",
+      "title": "Polygraph",
+      "source": "producthunt"
+    },
+    "66cda09c60813f33": {
+      "date": "2026-06-25",
+      "title": "Blop",
+      "source": "producthunt"
+    },
+    "139ed809dbd12d50": {
+      "date": "2026-06-25",
+      "title": "Nashra",
+      "source": "producthunt"
+    },
+    "2d7fbabb1292714a": {
+      "date": "2026-06-25",
+      "title": "Heron",
+      "source": "producthunt"
+    },
+    "c92c6e420a10aadf": {
+      "date": "2026-06-25",
+      "title": "BrowserBash",
+      "source": "producthunt"
+    },
+    "7eac89648b72e350": {
+      "date": "2026-06-25",
+      "title": "Papermark Agents",
+      "source": "producthunt"
+    },
+    "e6d53e5e44854110": {
+      "date": "2026-06-25",
+      "title": "Zaro",
+      "source": "producthunt"
+    },
+    "be755bb0400c3eb2": {
+      "date": "2026-06-25",
+      "title": "Grass 2.0",
+      "source": "producthunt"
+    },
+    "4fbd916c4c595102": {
+      "date": "2026-06-25",
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "source": "devto"
+    },
+    "e10f35d842ad1428": {
+      "date": "2026-06-25",
+      "title": "On programming languages, targets, and platforms",
+      "source": "devto"
+    },
+    "46d7da18bb45b9ce": {
+      "date": "2026-06-25",
+      "title": "My app didn't go \"viral\". My AWS bill did.",
+      "source": "devto"
+    },
+    "4de7877650ba3bbd": {
+      "date": "2026-06-25",
+      "title": "I don't trust the LLM to classify my email. So I don't let it.",
+      "source": "devto"
+    },
+    "7eef8b8ef47c0094": {
+      "date": "2026-06-25",
+      "title": "Do Developers Ever Really Disconnect?",
+      "source": "devto"
+    },
+    "bf1ea55ba6baac0a": {
+      "date": "2026-06-25",
+      "title": "Ponytail: The AI Coding Skill Taking GitHub by Storm — And the One Question Nobody's Answered Yet",
+      "source": "devto"
+    },
+    "9f8b3639e08591da": {
+      "date": "2026-06-25",
+      "title": "How I built ZeroAudit — AI-powered SOC 2 compliance automation with AWS DynamoDB and Vercel",
+      "source": "devto"
+    },
+    "19166cd6e90eb8f1": {
+      "date": "2026-06-25",
+      "title": "The Tracking-Link Bug That Only Breaks Signed URLs",
+      "source": "devto"
+    },
+    "6fab6fcf4bf4264b": {
+      "date": "2026-06-25",
+      "title": "Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce",
+      "source": "devto"
+    },
+    "9dc17afa76330292": {
+      "date": "2026-06-25",
+      "title": "One Agent or Many? Orchestrating AI Agents Without the Mess",
+      "source": "devto"
+    },
+    "2e659dc15da03489": {
+      "date": "2026-06-25",
+      "title": "xbtlin / ai-berkshire",
+      "source": "github"
+    },
+    "8f922997c926f6be": {
+      "date": "2026-06-25",
+      "title": "mauriceboe / TREK",
+      "source": "github"
+    },
+    "a1c760c91a2498ee": {
+      "date": "2026-06-25",
+      "title": "every-app / open-seo",
+      "source": "github"
+    },
+    "fef947109115f8c0": {
+      "date": "2026-06-25",
+      "title": "aws / agent-toolkit-for-aws",
+      "source": "github"
+    },
+    "ebc3b4fe22b66c2d": {
+      "date": "2026-06-25",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "source": "github"
+    },
+    "d8d54e4bd4f02a14": {
+      "date": "2026-06-25",
+      "title": "alibaba / page-agent",
+      "source": "github"
+    },
+    "9d1f873d0b898bf1": {
+      "date": "2026-06-25",
+      "title": "IceWhaleTech / CasaOS",
+      "source": "github"
+    },
+    "0882c05ca7034b93": {
+      "date": "2026-06-25",
+      "title": "opendatalab / MinerU",
       "source": "github"
     }
   }
