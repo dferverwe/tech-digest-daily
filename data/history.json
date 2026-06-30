@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-29T23:38:38.908942",
+  "last_updated": "2026-06-30T23:46:43.488629",
   "sent_items": {
-    "dcf91714e9a8b526": {
-      "date": "2026-05-30",
-      "title": "Step 3.7 Flash",
-      "source": "producthunt"
-    },
-    "e83d3a35d1aff4db": {
-      "date": "2026-05-30",
-      "title": "Openstatus MCP Health Checker",
-      "source": "producthunt"
-    },
-    "73b8eb0b80980b83": {
-      "date": "2026-05-30",
-      "title": "Hyper: Self-driving Company Brain",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-05-30",
-      "title": "/monitor by Firecrawl",
-      "source": "producthunt"
-    },
-    "262765bef52f1018": {
-      "date": "2026-05-30",
-      "title": "TrackNotch",
-      "source": "producthunt"
-    },
-    "5f7cff8660e87985": {
-      "date": "2026-05-30",
-      "title": "Linear Diffs",
-      "source": "producthunt"
-    },
-    "badf86289e1e64c0": {
-      "date": "2026-05-30",
-      "title": "OpenRouter raises $113M Series B",
-      "source": "hackernews"
-    },
-    "9297abe5b3b8b8c1": {
-      "date": "2026-05-30",
-      "title": "Voxel Space (2017)",
-      "source": "hackernews"
-    },
-    "4762e8b3d887aeeb": {
-      "date": "2026-05-30",
-      "title": "Accenture to acquire Ookla",
-      "source": "hackernews"
-    },
-    "e53b23ba2c4f7c96": {
-      "date": "2026-05-30",
-      "title": "Domain expertise has always been the real moat",
-      "source": "hackernews"
-    },
-    "9319590d8b4264b1": {
-      "date": "2026-05-30",
-      "title": "I found a seashell in the middle of the desert",
-      "source": "hackernews"
-    },
-    "d9337102740c5835": {
-      "date": "2026-05-30",
-      "title": "Zig ELF Linker Improvements Devlog",
-      "source": "hackernews"
-    },
-    "78ef04115abfa9b3": {
-      "date": "2026-05-30",
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "source": "hackernews"
-    },
-    "0a68343018194a8f": {
-      "date": "2026-05-30",
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "source": "hackernews"
-    },
-    "84781aa07e5df625": {
-      "date": "2026-05-30",
-      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
-      "source": "hackernews"
-    },
-    "cb18a84f3ef12986": {
-      "date": "2026-05-30",
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "source": "hackernews"
-    },
-    "9c35df6e8a0f63cb": {
-      "date": "2026-05-30",
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "source": "devto"
-    },
-    "d128311c3e2b1967": {
-      "date": "2026-05-30",
-      "title": "Hermes Agent Gets Smarter Every Day. So Does the Bill.",
-      "source": "devto"
-    },
-    "a30cf0b99692738e": {
-      "date": "2026-05-30",
-      "title": "Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
-      "source": "devto"
-    },
-    "59cab5e095a37eb0": {
-      "date": "2026-05-30",
-      "title": "How I Use Hermes Agent to Run an Agent Team",
-      "source": "devto"
-    },
-    "d9e4f49eb60a07b3": {
-      "date": "2026-05-30",
-      "title": "Reviving Ultra Creative Suite: The First Fully Accessible Video Editor for Blind Users",
-      "source": "devto"
-    },
-    "6b881f5c6681336a": {
-      "date": "2026-05-30",
-      "title": "I built cyberplain with Hermes — here's what actually went down",
-      "source": "devto"
-    },
-    "2e19bbd45752baf0": {
-      "date": "2026-05-30",
-      "title": "I Turned Hermes Agent into a Verifiable Agent Operating System",
-      "source": "devto"
-    },
-    "e1f1317c5aa6dc39": {
-      "date": "2026-05-30",
-      "title": "I Asked the Self-Improving Agent to Improve Itself.",
-      "source": "devto"
-    },
-    "1b47bd36dcdd578a": {
-      "date": "2026-05-30",
-      "title": "Math.random() Is Not Secure. I Found It Generating API Keys in a 44K-Star Repo.",
-      "source": "devto"
-    },
-    "083f4ec11f45e468": {
-      "date": "2026-05-30",
-      "title": "Teaching a Computer to Play 4X: How the Annhexation AI Works",
-      "source": "devto"
-    },
-    "78ddb48b10aef7ae": {
-      "date": "2026-05-30",
-      "title": "OpenBMB / VoxCPM",
-      "source": "github"
-    },
-    "f41dcfa2746bceff": {
-      "date": "2026-05-30",
-      "title": "chen08209 / FlClash",
-      "source": "github"
-    },
-    "9e76fa39adc6ffcf": {
-      "date": "2026-05-30",
-      "title": "FareedKhan-dev / train-llm-from-scratch",
-      "source": "github"
-    },
-    "4b0d3232cb556271": {
-      "date": "2026-05-30",
-      "title": "DataTalksClub / data-engineering-zoomcamp",
-      "source": "github"
-    },
     "c13138237e311466": {
       "date": "2026-05-31",
       "title": "Marqly 5.0",
@@ -4956,6 +4806,186 @@
       "date": "2026-06-29",
       "title": "Coding Agents Play Favorites With Your Dependencies",
       "source": "devto"
+    },
+    "fba550e7a7eedf48": {
+      "date": "2026-06-30",
+      "title": "Claude Code is steganographically marking requests",
+      "source": "hackernews"
+    },
+    "9b2ad380c4695f22": {
+      "date": "2026-06-30",
+      "title": "Claude Sonnet 5",
+      "source": "hackernews"
+    },
+    "20ad65b3d8aefd29": {
+      "date": "2026-06-30",
+      "title": "Claude Science",
+      "source": "hackernews"
+    },
+    "ebf8cf7f5598dd53": {
+      "date": "2026-06-30",
+      "title": "Nano Banana 2 Lite",
+      "source": "hackernews"
+    },
+    "c7620228444deafa": {
+      "date": "2026-06-30",
+      "title": "I ported Kubernetes to the browser",
+      "source": "hackernews"
+    },
+    "9ba7400215896fc5": {
+      "date": "2026-06-30",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "source": "hackernews"
+    },
+    "46fd8334bfb18825": {
+      "date": "2026-06-30",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "source": "hackernews"
+    },
+    "8e9ce4c602287034": {
+      "date": "2026-06-30",
+      "title": "Leanstral 1.5",
+      "source": "hackernews"
+    },
+    "b6443377bf278ec2": {
+      "date": "2026-06-30",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "source": "hackernews"
+    },
+    "346fa1f410dc5029": {
+      "date": "2026-06-30",
+      "title": "Hengefinder",
+      "source": "hackernews"
+    },
+    "86edef7453693483": {
+      "date": "2026-06-30",
+      "title": "Oakamo",
+      "source": "producthunt"
+    },
+    "ca1c0a51e598b478": {
+      "date": "2026-06-30",
+      "title": "Akiflow",
+      "source": "producthunt"
+    },
+    "ff26bc3838465381": {
+      "date": "2026-06-30",
+      "title": "Midway Chat",
+      "source": "producthunt"
+    },
+    "039b1297dbd0b9b9": {
+      "date": "2026-06-30",
+      "title": "Brain2Qwerty v2",
+      "source": "producthunt"
+    },
+    "7953fe8152abb155": {
+      "date": "2026-06-30",
+      "title": "Pluno",
+      "source": "producthunt"
+    },
+    "74bbfda82f0674f5": {
+      "date": "2026-06-30",
+      "title": "Cursor for iOS",
+      "source": "producthunt"
+    },
+    "4e0ae3e0fc3e09da": {
+      "date": "2026-06-30",
+      "title": "v0 Design Systems 2.0",
+      "source": "producthunt"
+    },
+    "18c3b2dc44abea8b": {
+      "date": "2026-06-30",
+      "title": "Justwrite",
+      "source": "producthunt"
+    },
+    "fada5e4b86d4e65e": {
+      "date": "2026-06-30",
+      "title": "The Future Of AI Is Local And Open",
+      "source": "devto"
+    },
+    "a7f283ec16c25ef3": {
+      "date": "2026-06-30",
+      "title": "This Is Software’s iPhone Moment",
+      "source": "devto"
+    },
+    "5ce4b818dac9ab2e": {
+      "date": "2026-06-30",
+      "title": "AI Engineer Meets AI Engineer",
+      "source": "devto"
+    },
+    "36f043643286eb5f": {
+      "date": "2026-06-30",
+      "title": "The Log Is the Agent",
+      "source": "devto"
+    },
+    "b3fbf6f96b8d0fc8": {
+      "date": "2026-06-30",
+      "title": "Someone Else Pays for Your AI Access",
+      "source": "devto"
+    },
+    "6ebc937a8ec7cc3d": {
+      "date": "2026-06-30",
+      "title": "You Don’t Always Need The Frontier",
+      "source": "devto"
+    },
+    "83a23b9bf1a8e689": {
+      "date": "2026-06-30",
+      "title": "The Evolution & Role of Context Engineering in AI Today",
+      "source": "devto"
+    },
+    "ed848ad1de51bc2a": {
+      "date": "2026-06-30",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "30044b9adfe7c86f": {
+      "date": "2026-06-30",
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
+      "source": "devto"
+    },
+    "592ef1c6b6d6c185": {
+      "date": "2026-06-30",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "source": "devto"
+    },
+    "ac45b546f1b96f0f": {
+      "date": "2026-06-30",
+      "title": "hasaneyldrm / exercises-dataset",
+      "source": "github"
+    },
+    "10942d97d561cb4c": {
+      "date": "2026-06-30",
+      "title": "diegosouzapw / OmniRoute",
+      "source": "github"
+    },
+    "e665646e6d6bb4d6": {
+      "date": "2026-06-30",
+      "title": "Mebus / cupp",
+      "source": "github"
+    },
+    "f7881b53deff036c": {
+      "date": "2026-06-30",
+      "title": "google / agents-cli",
+      "source": "github"
+    },
+    "b8b2afae293a234e": {
+      "date": "2026-06-30",
+      "title": "roboflow / supervision",
+      "source": "github"
+    },
+    "db7f927fbf3135e2": {
+      "date": "2026-06-30",
+      "title": "ogulcancelik / herdr",
+      "source": "github"
+    },
+    "b592dd6b10824215": {
+      "date": "2026-06-30",
+      "title": "CoreBunch / Instatic",
+      "source": "github"
+    },
+    "e67e2c38cce6781c": {
+      "date": "2026-06-30",
+      "title": "microsoft / AI-For-Beginners",
+      "source": "github"
     }
   }
 }
