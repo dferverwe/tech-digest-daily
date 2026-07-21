@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-20T23:35:04.084782",
+  "last_updated": "2026-07-21T23:35:59.677152",
   "sent_items": {
-    "8ce743d51ee4a11f": {
-      "date": "2026-06-20",
-      "title": "ReleaseDock",
-      "source": "producthunt"
-    },
-    "f58bd999f96164c8": {
-      "date": "2026-06-20",
-      "title": "Pixlie",
-      "source": "producthunt"
-    },
-    "dc9cbd876d6e1f89": {
-      "date": "2026-06-20",
-      "title": "Slackbot’s MCP Client",
-      "source": "producthunt"
-    },
-    "05c04b6fec7cb814": {
-      "date": "2026-06-20",
-      "title": "Are you in the Weights?",
-      "source": "producthunt"
-    },
-    "19f8a4ca34dab5c3": {
-      "date": "2026-06-20",
-      "title": "pumaDB",
-      "source": "producthunt"
-    },
-    "70c7411d6ef2aea6": {
-      "date": "2026-06-20",
-      "title": "Reframe",
-      "source": "producthunt"
-    },
-    "6ce22d880a7d3545": {
-      "date": "2026-06-20",
-      "title": "GitSync for macOS",
-      "source": "producthunt"
-    },
-    "5a60fcd9ee73131e": {
-      "date": "2026-06-20",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "source": "hackernews"
-    },
-    "18af52ad9fea7164": {
-      "date": "2026-06-20",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "source": "hackernews"
-    },
-    "c75edcbe8313f72c": {
-      "date": "2026-06-20",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "source": "hackernews"
-    },
-    "7850086478fa3f06": {
-      "date": "2026-06-20",
-      "title": "Pre-2022 Books",
-      "source": "hackernews"
-    },
-    "285773f4818b4a71": {
-      "date": "2026-06-20",
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "source": "hackernews"
-    },
-    "4428f36051617740": {
-      "date": "2026-06-20",
-      "title": "Inference cost at scale with napkin math",
-      "source": "hackernews"
-    },
-    "dc20851c2b48c21a": {
-      "date": "2026-06-20",
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "source": "hackernews"
-    },
-    "80941dbae2cfcf47": {
-      "date": "2026-06-20",
-      "title": "Alice is impatient",
-      "source": "hackernews"
-    },
-    "69677a1ebc2e3d3c": {
-      "date": "2026-06-20",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "source": "hackernews"
-    },
-    "6e70f48cceac3aac": {
-      "date": "2026-06-20",
-      "title": "Epoll vs. Io_uring in Linux",
-      "source": "hackernews"
-    },
-    "fb9702a59206af19": {
-      "date": "2026-06-20",
-      "title": "Fruit Dash: A Solstice Platformer with Binary Code Gates",
-      "source": "devto"
-    },
-    "3488bc28a7ea780f": {
-      "date": "2026-06-20",
-      "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
-      "source": "devto"
-    },
-    "5a182f4a51245abd": {
-      "date": "2026-06-20",
-      "title": "⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙",
-      "source": "devto"
-    },
-    "392b41342168eb44": {
-      "date": "2026-06-20",
-      "title": "Rebuilding a Divi Blog with Custom Shortcodes: A Field Report",
-      "source": "devto"
-    },
-    "1594b153fef2210d": {
-      "date": "2026-06-20",
-      "title": "ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's Last AI, Interrogated by a Live Gemin",
-      "source": "devto"
-    },
-    "b46649f307148f40": {
-      "date": "2026-06-20",
-      "title": "Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam",
-      "source": "devto"
-    },
-    "b7d8a634e631a409": {
-      "date": "2026-06-20",
-      "title": "I Benchmarked 17 Image Conversions on My Production Server. Some Results Were Not What I Expected.",
-      "source": "devto"
-    },
-    "526fff8d5c9655c1": {
-      "date": "2026-06-20",
-      "title": "AI memory should be a product state, not a prompt trick",
-      "source": "devto"
-    },
-    "0baefb5c932a8431": {
-      "date": "2026-06-20",
-      "title": "I automated everything except the code, and that's where Claude Code actually paid off",
-      "source": "devto"
-    },
-    "cf18a45dc2f21a47": {
-      "date": "2026-06-20",
-      "title": "Among Liars -> The 7th Player Isn't Human",
-      "source": "devto"
-    },
-    "0bad1edbad8117de": {
-      "date": "2026-06-20",
-      "title": "tursodatabase / turso",
-      "source": "github"
-    },
-    "390f5316113d12d5": {
-      "date": "2026-06-20",
-      "title": "tw93 / Pake",
-      "source": "github"
-    },
-    "bfeff07f7d8682f0": {
-      "date": "2026-06-20",
-      "title": "jamiepine / voicebox",
-      "source": "github"
-    },
     "ead6b93e051102f5": {
       "date": "2026-06-21",
       "title": "Identity verification on Claude",
@@ -5001,6 +4851,196 @@
       "date": "2026-07-20",
       "title": "PrefectHQ / fastmcp",
       "source": "github"
+    },
+    "2967707ce89d50d9": {
+      "date": "2026-07-21",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "source": "hackernews"
+    },
+    "a6a720bfc5d237c9": {
+      "date": "2026-07-21",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "source": "hackernews"
+    },
+    "6ed57de9509871a4": {
+      "date": "2026-07-21",
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "source": "hackernews"
+    },
+    "e3c42c89eaef1c19": {
+      "date": "2026-07-21",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "source": "hackernews"
+    },
+    "f7c43a5bc182f683": {
+      "date": "2026-07-21",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "source": "hackernews"
+    },
+    "ee8670fb6715ddd3": {
+      "date": "2026-07-21",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "source": "hackernews"
+    },
+    "9e19d69b3cd8bcb0": {
+      "date": "2026-07-21",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "source": "hackernews"
+    },
+    "0d84a422d04985f3": {
+      "date": "2026-07-21",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "source": "hackernews"
+    },
+    "2a7ff54d10754acf": {
+      "date": "2026-07-21",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "source": "hackernews"
+    },
+    "93106b48d110e735": {
+      "date": "2026-07-21",
+      "title": "The Birth of Prolog (1996)",
+      "source": "hackernews"
+    },
+    "15f936759ae95dfe": {
+      "date": "2026-07-21",
+      "title": "ArachStudio",
+      "source": "producthunt"
+    },
+    "131ab0359ae0ec5a": {
+      "date": "2026-07-21",
+      "title": "Tidy",
+      "source": "producthunt"
+    },
+    "e0ca3218302df310": {
+      "date": "2026-07-21",
+      "title": "Phantomstory",
+      "source": "producthunt"
+    },
+    "c05baf7f49f41ed6": {
+      "date": "2026-07-21",
+      "title": "Routine AI",
+      "source": "producthunt"
+    },
+    "79898daaa9ae2fd1": {
+      "date": "2026-07-21",
+      "title": "tterm",
+      "source": "producthunt"
+    },
+    "8d98dad254cdf357": {
+      "date": "2026-07-21",
+      "title": "ditto.site",
+      "source": "producthunt"
+    },
+    "bf0bba3d0b858843": {
+      "date": "2026-07-21",
+      "title": "Diffsmith",
+      "source": "producthunt"
+    },
+    "f07f340c848832ee": {
+      "date": "2026-07-21",
+      "title": "ProtoFlow",
+      "source": "producthunt"
+    },
+    "56d33226bf40d769": {
+      "date": "2026-07-21",
+      "title": "koala73 / worldmonitor",
+      "source": "github"
+    },
+    "ee7d6f2f5cec7fb9": {
+      "date": "2026-07-21",
+      "title": "ayghri / i-have-adhd",
+      "source": "github"
+    },
+    "7a4b3790492aaeb5": {
+      "date": "2026-07-21",
+      "title": "earthtojake / text-to-cad",
+      "source": "github"
+    },
+    "ee1315903bd5e838": {
+      "date": "2026-07-21",
+      "title": "oblien / openship",
+      "source": "github"
+    },
+    "d84de85bb3f0e980": {
+      "date": "2026-07-21",
+      "title": "tradesdontlie / tradingview-mcp",
+      "source": "github"
+    },
+    "018703fab583e3d5": {
+      "date": "2026-07-21",
+      "title": "AlexsJones / llmfit",
+      "source": "github"
+    },
+    "3a0b0b37a392aba3": {
+      "date": "2026-07-21",
+      "title": "hyprwm / Hyprland",
+      "source": "github"
+    },
+    "44fef4354ab3fc2f": {
+      "date": "2026-07-21",
+      "title": "chrislgarry / Apollo-11",
+      "source": "github"
+    },
+    "c23e4133fb44634b": {
+      "date": "2026-07-21",
+      "title": "DioxusLabs / dioxus",
+      "source": "github"
+    },
+    "280b22a646186e07": {
+      "date": "2026-07-21",
+      "title": "langchain-ai / open_deep_research",
+      "source": "github"
+    },
+    "9ad772dbfeb435e6": {
+      "date": "2026-07-21",
+      "title": "You can build it. Should you?",
+      "source": "devto"
+    },
+    "8c2ba10cd6a304a4": {
+      "date": "2026-07-21",
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "source": "devto"
+    },
+    "ed141a40a72a4e76": {
+      "date": "2026-07-21",
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "source": "devto"
+    },
+    "a247d2449e1ba154": {
+      "date": "2026-07-21",
+      "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
+      "source": "devto"
+    },
+    "0dfee9fa3f18885f": {
+      "date": "2026-07-21",
+      "title": "🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...",
+      "source": "devto"
+    },
+    "0c4a33c7837b280f": {
+      "date": "2026-07-21",
+      "title": "How AI changed the way I pick frameworks, and the two places React survived",
+      "source": "devto"
+    },
+    "2208dae172b90c9a": {
+      "date": "2026-07-21",
+      "title": "Snowflake Cortex, Explained Like an AI That Lives Next to Your Data",
+      "source": "devto"
+    },
+    "07087b8abb505a64": {
+      "date": "2026-07-21",
+      "title": "Open AI Build Week: Foundation First, Software Second",
+      "source": "devto"
+    },
+    "bb54ba776d88bbc2": {
+      "date": "2026-07-21",
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models",
+      "source": "devto"
+    },
+    "cd1b1c78f4b363af": {
+      "date": "2026-07-21",
+      "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
+      "source": "devto"
     }
   }
 }
