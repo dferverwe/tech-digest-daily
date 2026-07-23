@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-22T23:35:18.294645",
+  "last_updated": "2026-07-23T23:32:40.409321",
   "sent_items": {
-    "46d8bc18b6a7efa0": {
-      "date": "2026-06-22",
-      "title": "AlgoFly AI",
-      "source": "producthunt"
-    },
-    "d34049417bd81b18": {
-      "date": "2026-06-22",
-      "title": "Photoroom API",
-      "source": "producthunt"
-    },
-    "d0a7407dac5eed44": {
-      "date": "2026-06-22",
-      "title": "uwait",
-      "source": "producthunt"
-    },
-    "4f76f2aec8270204": {
-      "date": "2026-06-22",
-      "title": "Alai 2.0",
-      "source": "producthunt"
-    },
-    "5fe40cb4252a6e2a": {
-      "date": "2026-06-22",
-      "title": "Cloudflare Temporary Accounts",
-      "source": "producthunt"
-    },
-    "cf0a870d5f91e19b": {
-      "date": "2026-06-22",
-      "title": "OnBrand by SlideSpeak",
-      "source": "producthunt"
-    },
-    "d64b7d75cc1fd497": {
-      "date": "2026-06-22",
-      "title": "Selector Forge",
-      "source": "producthunt"
-    },
-    "5733b2b8b4d49a91": {
-      "date": "2026-06-22",
-      "title": "MD+HTML Reader",
-      "source": "producthunt"
-    },
-    "f410da262bf0885c": {
-      "date": "2026-06-22",
-      "title": "Steam Machine launches today",
-      "source": "hackernews"
-    },
-    "6403de463dadf7ab": {
-      "date": "2026-06-22",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "source": "hackernews"
-    },
-    "a95392d652d1981b": {
-      "date": "2026-06-22",
-      "title": "My Mathematical Regression",
-      "source": "hackernews"
-    },
-    "05da327b3a751ddc": {
-      "date": "2026-06-22",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "source": "hackernews"
-    },
-    "7c8e837a78550904": {
-      "date": "2026-06-22",
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
-      "source": "hackernews"
-    },
-    "7e15460cb957b046": {
-      "date": "2026-06-22",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "source": "hackernews"
-    },
-    "40591857a5a4a02e": {
-      "date": "2026-06-22",
-      "title": "Japanese symbols that speak without words",
-      "source": "hackernews"
-    },
-    "40ea44f3f88622e0": {
-      "date": "2026-06-22",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "source": "hackernews"
-    },
-    "f617077f8e4f1de8": {
-      "date": "2026-06-22",
-      "title": "Canyon HUD helmet for road riding",
-      "source": "hackernews"
-    },
-    "a2860ad0a3e4cf1e": {
-      "date": "2026-06-22",
-      "title": "Is it time for a new Embedded Linux build system?",
-      "source": "hackernews"
-    },
-    "b8cf6d693277b726": {
-      "date": "2026-06-22",
-      "title": "The Principle of Least AI",
-      "source": "devto"
-    },
-    "05e1038be3690ac0": {
-      "date": "2026-06-22",
-      "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
-      "source": "devto"
-    },
-    "90bee5277ea84e18": {
-      "date": "2026-06-22",
-      "title": "What Kind of AI-Assisted Developer Are You? Take the quiz.",
-      "source": "devto"
-    },
-    "d8f7c3d3e7b55555": {
-      "date": "2026-06-22",
-      "title": "👾 Server Access Logs with GoAccess",
-      "source": "devto"
-    },
-    "c52fa0d45e250216": {
-      "date": "2026-06-22",
-      "title": "I am behind, and I can't prove it but does it matter?",
-      "source": "devto"
-    },
-    "bfe185682b294afe": {
-      "date": "2026-06-22",
-      "title": "What are your Goals for the week? #184",
-      "source": "devto"
-    },
-    "372886bb93f68e55": {
-      "date": "2026-06-22",
-      "title": "Do localhost para o mundo",
-      "source": "devto"
-    },
-    "ca9a50a3aa7f1e4e": {
-      "date": "2026-06-22",
-      "title": "The Stale Feature Flag We Deleted That Turned a Feature Back On",
-      "source": "devto"
-    },
-    "d9f7c0534265f8e4": {
-      "date": "2026-06-22",
-      "title": "What it takes to build docs worth reading",
-      "source": "devto"
-    },
-    "30d6f2608ff8bd42": {
-      "date": "2026-06-22",
-      "title": "Link or Button, that is the question.",
-      "source": "devto"
-    },
-    "b2783939baa36f0b": {
-      "date": "2026-06-22",
-      "title": "Stirling-Tools / Stirling-PDF",
-      "source": "github"
-    },
-    "8ed11f9c07a08ee3": {
-      "date": "2026-06-22",
-      "title": "garrytan / gstack",
-      "source": "github"
-    },
-    "1c708e2373cec766": {
-      "date": "2026-06-22",
-      "title": "heygen-com / hyperframes",
-      "source": "github"
-    },
-    "49a1c7e387a4e695": {
-      "date": "2026-06-22",
-      "title": "firecrawl / firecrawl",
-      "source": "github"
-    },
-    "cdf1702f364a4d5a": {
-      "date": "2026-06-22",
-      "title": "JCodesMore / ai-website-cloner-template",
-      "source": "github"
-    },
     "33ff5955ad0f84d9": {
       "date": "2026-06-23",
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
@@ -5055,6 +4890,171 @@
     "0f509cf92ac6d466": {
       "date": "2026-07-22",
       "title": "dreamhunter2333 / cloudflare_temp_email",
+      "source": "github"
+    },
+    "35ef15278bebe994": {
+      "date": "2026-07-23",
+      "title": "Writing by hand is good for your brain",
+      "source": "hackernews"
+    },
+    "aca257bb93fd12fa": {
+      "date": "2026-07-23",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "source": "hackernews"
+    },
+    "f64ead1100dcc11f": {
+      "date": "2026-07-23",
+      "title": "What happened to TheNumbers.com",
+      "source": "hackernews"
+    },
+    "5223b9bbb6a5ac5f": {
+      "date": "2026-07-23",
+      "title": "Software rendering in 500 lines of bare C++",
+      "source": "hackernews"
+    },
+    "85bd5a1fc677dda6": {
+      "date": "2026-07-23",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "source": "hackernews"
+    },
+    "1ff27c8ad9969a65": {
+      "date": "2026-07-23",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "source": "hackernews"
+    },
+    "66ea0eb6f9181fa2": {
+      "date": "2026-07-23",
+      "title": "Building on ATProto",
+      "source": "hackernews"
+    },
+    "8bd1f17f0a17c196": {
+      "date": "2026-07-23",
+      "title": "The Beam Engine",
+      "source": "hackernews"
+    },
+    "8cce3676d4f631cb": {
+      "date": "2026-07-23",
+      "title": "98.css",
+      "source": "hackernews"
+    },
+    "6b00a79aa94f3891": {
+      "date": "2026-07-23",
+      "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+      "source": "hackernews"
+    },
+    "7a4b50a8f9c12e0a": {
+      "date": "2026-07-23",
+      "title": "Swenest",
+      "source": "producthunt"
+    },
+    "88ecc7a2bddea9c9": {
+      "date": "2026-07-23",
+      "title": "Drawsy",
+      "source": "producthunt"
+    },
+    "4cb18d1d37f79c64": {
+      "date": "2026-07-23",
+      "title": "Vevey",
+      "source": "producthunt"
+    },
+    "a16b5bd42357d399": {
+      "date": "2026-07-23",
+      "title": "PromptQL",
+      "source": "producthunt"
+    },
+    "1354836c023effa5": {
+      "date": "2026-07-23",
+      "title": "CrawlRaven",
+      "source": "producthunt"
+    },
+    "fd3029a6cf68b775": {
+      "date": "2026-07-23",
+      "title": "xPitch",
+      "source": "producthunt"
+    },
+    "7232d387e3a0dcf5": {
+      "date": "2026-07-23",
+      "title": "AgentLoop",
+      "source": "producthunt"
+    },
+    "faa501375775e0d3": {
+      "date": "2026-07-23",
+      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+      "source": "devto"
+    },
+    "686ffa292750fff1": {
+      "date": "2026-07-23",
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "source": "devto"
+    },
+    "eeda0c5ab91437cc": {
+      "date": "2026-07-23",
+      "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
+      "source": "devto"
+    },
+    "307d58c5f7b58f02": {
+      "date": "2026-07-23",
+      "title": "Jerry Ran Out of Numbers But Drank All the Punch",
+      "source": "devto"
+    },
+    "078745d6ff844477": {
+      "date": "2026-07-23",
+      "title": "Roll your own file-based router in under 50 lines of code",
+      "source": "devto"
+    },
+    "64b28b64827bcb31": {
+      "date": "2026-07-23",
+      "title": "My dashboard took 7.6 seconds to render fifteen numbers 🐌",
+      "source": "devto"
+    },
+    "bbc2a1e12ee85dc0": {
+      "date": "2026-07-23",
+      "title": "Game networking for a slow strategy game",
+      "source": "devto"
+    },
+    "2cd143fdad0c7ca8": {
+      "date": "2026-07-23",
+      "title": "Tried building GitHub's search box in Go",
+      "source": "devto"
+    },
+    "5920cc8cff939517": {
+      "date": "2026-07-23",
+      "title": "DSCI - CI with regular programming languages instead of YAML",
+      "source": "devto"
+    },
+    "d89892338a08a58f": {
+      "date": "2026-07-23",
+      "title": "How AI Endpoints Change the Traditional API Flow",
+      "source": "devto"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-07-23",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "0064ff826d4ea331": {
+      "date": "2026-07-23",
+      "title": "Pumpkin-MC / Pumpkin",
+      "source": "github"
+    },
+    "02e09efcdbd4bdf8": {
+      "date": "2026-07-23",
+      "title": "citrolabs / ego-lite",
+      "source": "github"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-07-23",
+      "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "f0e8ac07d3199ef1": {
+      "date": "2026-07-23",
+      "title": "Automattic / harper",
+      "source": "github"
+    },
+    "59e9f1b93ba7d02c": {
+      "date": "2026-07-23",
+      "title": "jellyfin / jellyfin",
       "source": "github"
     }
   }
