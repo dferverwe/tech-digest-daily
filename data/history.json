@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-23T23:32:40.409321",
+  "last_updated": "2026-07-24T23:38:32.808793",
   "sent_items": {
-    "33ff5955ad0f84d9": {
-      "date": "2026-06-23",
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "source": "hackernews"
-    },
-    "5fc3690993a645ac": {
-      "date": "2026-06-23",
-      "title": "The Coming Loop",
-      "source": "hackernews"
-    },
-    "639af81f700d6960": {
-      "date": "2026-06-23",
-      "title": "Jerry's Map",
-      "source": "hackernews"
-    },
-    "440089dd75ac5a86": {
-      "date": "2026-06-23",
-      "title": "FUTO Swipe – A new swipe typing model",
-      "source": "hackernews"
-    },
-    "507cdd8bde63943f": {
-      "date": "2026-06-23",
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "source": "hackernews"
-    },
-    "af6e355b941e6ef9": {
-      "date": "2026-06-23",
-      "title": "Swift Package Index joins Apple",
-      "source": "hackernews"
-    },
-    "e6d2c8ee1d8786b8": {
-      "date": "2026-06-23",
-      "title": "Printing Gaussian Splats",
-      "source": "hackernews"
-    },
-    "c7b57177e881a686": {
-      "date": "2026-06-23",
-      "title": "Trains halted across Germany because of communication system problem",
-      "source": "hackernews"
-    },
-    "df5f31ed7733a7c0": {
-      "date": "2026-06-23",
-      "title": "United Wizards of the Coast recognized by NLRB",
-      "source": "hackernews"
-    },
-    "b8ac69d526af0c9f": {
-      "date": "2026-06-23",
-      "title": "In memory of the man who put red and green squiggles under words",
-      "source": "hackernews"
-    },
-    "1adcc918e5142322": {
-      "date": "2026-06-23",
-      "title": "Bluerails Discovery",
-      "source": "producthunt"
-    },
-    "cc0850cf5e0e5eb1": {
-      "date": "2026-06-23",
-      "title": "Conduit",
-      "source": "producthunt"
-    },
-    "9f3d761d23c9cac4": {
-      "date": "2026-06-23",
-      "title": "BestDefense.io",
-      "source": "producthunt"
-    },
-    "56b486394c069d88": {
-      "date": "2026-06-23",
-      "title": "Blazly SEO",
-      "source": "producthunt"
-    },
-    "5547371b8457191e": {
-      "date": "2026-06-23",
-      "title": "Steam Machine",
-      "source": "producthunt"
-    },
-    "bcaa061f754d25e2": {
-      "date": "2026-06-23",
-      "title": "Latitude",
-      "source": "producthunt"
-    },
-    "ee77bde5a38ba54d": {
-      "date": "2026-06-23",
-      "title": "Deckwise",
-      "source": "producthunt"
-    },
-    "cf6d5032dea32088": {
-      "date": "2026-06-23",
-      "title": "Buddy AI Note",
-      "source": "producthunt"
-    },
-    "1f76db0e23612ae0": {
-      "date": "2026-06-23",
-      "title": "I'm moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀",
-      "source": "devto"
-    },
-    "88ef883781df0ab0": {
-      "date": "2026-06-23",
-      "title": "Agents write code, but they don't remember",
-      "source": "devto"
-    },
-    "7f8f683653305c3e": {
-      "date": "2026-06-23",
-      "title": "Too cheap to be good? Think again.",
-      "source": "devto"
-    },
-    "b124905c8c5fce05": {
-      "date": "2026-06-23",
-      "title": "Solstice Protocol: A Puzzle Adventure to Save the Longest Day",
-      "source": "devto"
-    },
-    "69c2753cfad6e072": {
-      "date": "2026-06-23",
-      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
-      "source": "devto"
-    },
-    "b0d639497692da11": {
-      "date": "2026-06-23",
-      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
-      "source": "devto"
-    },
-    "ab06793bd2ea642f": {
-      "date": "2026-06-23",
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "source": "devto"
-    },
-    "1c3e0a2117ac60f9": {
-      "date": "2026-06-23",
-      "title": "Maybe It Is Not Yet Time To Bring Every AI Demo To Production",
-      "source": "devto"
-    },
-    "278c617e7254b86e": {
-      "date": "2026-06-23",
-      "title": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
-      "source": "devto"
-    },
-    "ebea3467b34d97b2": {
-      "date": "2026-06-23",
-      "title": "Why I Left Postman — The Real Cost of a Cloud-First API Client",
-      "source": "devto"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-06-23",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
-    "26ea52d56cf57a70": {
-      "date": "2026-06-23",
-      "title": "shanraisshan / claude-code-best-practice",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-06-23",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
     "dd8688eee4b04870": {
       "date": "2026-06-24",
       "title": "We’re making Bunny DNS free",
@@ -5055,6 +4900,161 @@
     "59e9f1b93ba7d02c": {
       "date": "2026-07-23",
       "title": "jellyfin / jellyfin",
+      "source": "github"
+    },
+    "1445d8a42c014bb8": {
+      "date": "2026-07-24",
+      "title": "Claude Opus 5",
+      "source": "hackernews"
+    },
+    "3a464cfed62513a7": {
+      "date": "2026-07-24",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "source": "hackernews"
+    },
+    "044a992b61137428": {
+      "date": "2026-07-24",
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "source": "hackernews"
+    },
+    "51f89d378e2da760": {
+      "date": "2026-07-24",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "source": "hackernews"
+    },
+    "7e3d93bcc2e892c9": {
+      "date": "2026-07-24",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "source": "hackernews"
+    },
+    "418c67d69ccc8c17": {
+      "date": "2026-07-24",
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "source": "hackernews"
+    },
+    "f41315891e365c43": {
+      "date": "2026-07-24",
+      "title": "Designing an Ethernet Switch ASIC",
+      "source": "hackernews"
+    },
+    "78261b4c4c883a06": {
+      "date": "2026-07-24",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "source": "hackernews"
+    },
+    "dc3102d4b5d1a569": {
+      "date": "2026-07-24",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "source": "hackernews"
+    },
+    "725d2eda99d2135f": {
+      "date": "2026-07-24",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "source": "hackernews"
+    },
+    "d05d8aadf890ce6b": {
+      "date": "2026-07-24",
+      "title": "Freesolo Flash",
+      "source": "producthunt"
+    },
+    "fa59e88f036b3e53": {
+      "date": "2026-07-24",
+      "title": "YC has it",
+      "source": "producthunt"
+    },
+    "b58ffa21d36583e5": {
+      "date": "2026-07-24",
+      "title": "The new Firecrawl /search",
+      "source": "producthunt"
+    },
+    "4cd8726e2096bec7": {
+      "date": "2026-07-24",
+      "title": "HarnessRouter",
+      "source": "producthunt"
+    },
+    "9152c3d73117eaa2": {
+      "date": "2026-07-24",
+      "title": "Prosed",
+      "source": "producthunt"
+    },
+    "0abbbce48d5f23f6": {
+      "date": "2026-07-24",
+      "title": "Hotspot Meter",
+      "source": "producthunt"
+    },
+    "251094ae0d595314": {
+      "date": "2026-07-24",
+      "title": "Buzz",
+      "source": "producthunt"
+    },
+    "ca8e0d337b926230": {
+      "date": "2026-07-24",
+      "title": "Liso",
+      "source": "producthunt"
+    },
+    "05d37dc32f33cdc9": {
+      "date": "2026-07-24",
+      "title": "Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus L",
+      "source": "devto"
+    },
+    "e29a28ade0bb4300": {
+      "date": "2026-07-24",
+      "title": "6 Open Source Tools That Give You the Web Back",
+      "source": "devto"
+    },
+    "c90d9bc83522e00c": {
+      "date": "2026-07-24",
+      "title": "The World's Oldest Communication Protocol Is Music",
+      "source": "devto"
+    },
+    "a59134f0223035dd": {
+      "date": "2026-07-24",
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "source": "devto"
+    },
+    "15475f4daa5f3799": {
+      "date": "2026-07-24",
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions ",
+      "source": "devto"
+    },
+    "08819da096448997": {
+      "date": "2026-07-24",
+      "title": "Own Your Pixels: Native Fidelity on Your Schedule",
+      "source": "devto"
+    },
+    "e1f430721ed58066": {
+      "date": "2026-07-24",
+      "title": "Hetzner Inference: First Look",
+      "source": "devto"
+    },
+    "f6b9a1ab05939659": {
+      "date": "2026-07-24",
+      "title": "Começando com Redes: Camadas de uma conexão TCP/IP",
+      "source": "devto"
+    },
+    "8e8f9354b3b61c38": {
+      "date": "2026-07-24",
+      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+      "source": "devto"
+    },
+    "849add21bba150f8": {
+      "date": "2026-07-24",
+      "title": "The Person Who Fixed the Bugs Just Vanished",
+      "source": "devto"
+    },
+    "348a5ab08e75414c": {
+      "date": "2026-07-24",
+      "title": "yorukot / superfile",
+      "source": "github"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-07-24",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "1fc186e3e23d6cbb": {
+      "date": "2026-07-24",
+      "title": "Lordog / dive-into-llms",
       "source": "github"
     }
   }
