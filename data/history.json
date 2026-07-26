@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-25T23:37:41.909300",
+  "last_updated": "2026-07-26T23:35:23.072607",
   "sent_items": {
-    "a5ab93f91593d625": {
-      "date": "2026-06-25",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "source": "hackernews"
-    },
-    "15ed02d2a384386f": {
-      "date": "2026-06-25",
-      "title": "Oxide computer 3D rack guided tour",
-      "source": "hackernews"
-    },
-    "c2466f14c277cc4c": {
-      "date": "2026-06-25",
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "source": "hackernews"
-    },
-    "a5f18e26a1f1ea96": {
-      "date": "2026-06-25",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "source": "hackernews"
-    },
-    "0c62baeff9bd40a0": {
-      "date": "2026-06-25",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "source": "hackernews"
-    },
-    "ebc5ea53f3fe04a6": {
-      "date": "2026-06-25",
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "source": "hackernews"
-    },
-    "1f98068454037eed": {
-      "date": "2026-06-25",
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "source": "hackernews"
-    },
-    "421a8873291fee7b": {
-      "date": "2026-06-25",
-      "title": "An oral history of Bank Python (2021)",
-      "source": "hackernews"
-    },
-    "bb866b9198a54e3e": {
-      "date": "2026-06-25",
-      "title": "Parallel Parentheses Matching",
-      "source": "hackernews"
-    },
-    "fa97414e1a81b365": {
-      "date": "2026-06-25",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "source": "hackernews"
-    },
-    "a64cfd340f6b38a2": {
-      "date": "2026-06-25",
-      "title": "Polygraph",
-      "source": "producthunt"
-    },
-    "66cda09c60813f33": {
-      "date": "2026-06-25",
-      "title": "Blop",
-      "source": "producthunt"
-    },
-    "139ed809dbd12d50": {
-      "date": "2026-06-25",
-      "title": "Nashra",
-      "source": "producthunt"
-    },
-    "2d7fbabb1292714a": {
-      "date": "2026-06-25",
-      "title": "Heron",
-      "source": "producthunt"
-    },
-    "c92c6e420a10aadf": {
-      "date": "2026-06-25",
-      "title": "BrowserBash",
-      "source": "producthunt"
-    },
-    "7eac89648b72e350": {
-      "date": "2026-06-25",
-      "title": "Papermark Agents",
-      "source": "producthunt"
-    },
-    "e6d53e5e44854110": {
-      "date": "2026-06-25",
-      "title": "Zaro",
-      "source": "producthunt"
-    },
-    "be755bb0400c3eb2": {
-      "date": "2026-06-25",
-      "title": "Grass 2.0",
-      "source": "producthunt"
-    },
-    "4fbd916c4c595102": {
-      "date": "2026-06-25",
-      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
-      "source": "devto"
-    },
-    "e10f35d842ad1428": {
-      "date": "2026-06-25",
-      "title": "On programming languages, targets, and platforms",
-      "source": "devto"
-    },
-    "46d7da18bb45b9ce": {
-      "date": "2026-06-25",
-      "title": "My app didn't go \"viral\". My AWS bill did.",
-      "source": "devto"
-    },
-    "4de7877650ba3bbd": {
-      "date": "2026-06-25",
-      "title": "I don't trust the LLM to classify my email. So I don't let it.",
-      "source": "devto"
-    },
-    "7eef8b8ef47c0094": {
-      "date": "2026-06-25",
-      "title": "Do Developers Ever Really Disconnect?",
-      "source": "devto"
-    },
-    "bf1ea55ba6baac0a": {
-      "date": "2026-06-25",
-      "title": "Ponytail: The AI Coding Skill Taking GitHub by Storm — And the One Question Nobody's Answered Yet",
-      "source": "devto"
-    },
-    "9f8b3639e08591da": {
-      "date": "2026-06-25",
-      "title": "How I built ZeroAudit — AI-powered SOC 2 compliance automation with AWS DynamoDB and Vercel",
-      "source": "devto"
-    },
-    "19166cd6e90eb8f1": {
-      "date": "2026-06-25",
-      "title": "The Tracking-Link Bug That Only Breaks Signed URLs",
-      "source": "devto"
-    },
-    "6fab6fcf4bf4264b": {
-      "date": "2026-06-25",
-      "title": "Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce",
-      "source": "devto"
-    },
-    "9dc17afa76330292": {
-      "date": "2026-06-25",
-      "title": "One Agent or Many? Orchestrating AI Agents Without the Mess",
-      "source": "devto"
-    },
-    "2e659dc15da03489": {
-      "date": "2026-06-25",
-      "title": "xbtlin / ai-berkshire",
-      "source": "github"
-    },
-    "8f922997c926f6be": {
-      "date": "2026-06-25",
-      "title": "mauriceboe / TREK",
-      "source": "github"
-    },
-    "a1c760c91a2498ee": {
-      "date": "2026-06-25",
-      "title": "every-app / open-seo",
-      "source": "github"
-    },
-    "fef947109115f8c0": {
-      "date": "2026-06-25",
-      "title": "aws / agent-toolkit-for-aws",
-      "source": "github"
-    },
-    "ebc3b4fe22b66c2d": {
-      "date": "2026-06-25",
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "source": "github"
-    },
-    "d8d54e4bd4f02a14": {
-      "date": "2026-06-25",
-      "title": "alibaba / page-agent",
-      "source": "github"
-    },
-    "9d1f873d0b898bf1": {
-      "date": "2026-06-25",
-      "title": "IceWhaleTech / CasaOS",
-      "source": "github"
-    },
-    "0882c05ca7034b93": {
-      "date": "2026-06-25",
-      "title": "opendatalab / MinerU",
-      "source": "github"
-    },
     "820663ef04fc31ec": {
       "date": "2026-06-26",
       "title": "Aurora Notch",
@@ -5035,6 +4855,171 @@
     "fa7a24d15387e004": {
       "date": "2026-07-25",
       "title": "palmier-io / palmier-pro",
+      "source": "github"
+    },
+    "ff02f88490955ea8": {
+      "date": "2026-07-26",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "source": "hackernews"
+    },
+    "06d8e97a7fcf509b": {
+      "date": "2026-07-26",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "source": "hackernews"
+    },
+    "04a1803c5810b3f2": {
+      "date": "2026-07-26",
+      "title": "Design is compromise",
+      "source": "hackernews"
+    },
+    "74fa33b5f6bf39bb": {
+      "date": "2026-07-26",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "source": "hackernews"
+    },
+    "049f9ba83c8dcdc7": {
+      "date": "2026-07-26",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "source": "hackernews"
+    },
+    "67785b3afcbb02f8": {
+      "date": "2026-07-26",
+      "title": "How to Block Some of the Bots",
+      "source": "hackernews"
+    },
+    "cc44ef51c68f5eb2": {
+      "date": "2026-07-26",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "source": "hackernews"
+    },
+    "8b680fbb72f39332": {
+      "date": "2026-07-26",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "source": "hackernews"
+    },
+    "f7fc0063c1d35180": {
+      "date": "2026-07-26",
+      "title": "Teaching Kids Forth",
+      "source": "hackernews"
+    },
+    "3289bfde62d22538": {
+      "date": "2026-07-26",
+      "title": "Japan legend Miura, 59, scores first goal since 2022",
+      "source": "hackernews"
+    },
+    "681a79c22ee9955b": {
+      "date": "2026-07-26",
+      "title": "Aymo AI",
+      "source": "producthunt"
+    },
+    "5601a7acba4cab12": {
+      "date": "2026-07-26",
+      "title": "BrainFeed",
+      "source": "producthunt"
+    },
+    "8d78e4872bcccc5c": {
+      "date": "2026-07-26",
+      "title": "PureBox.ai",
+      "source": "producthunt"
+    },
+    "369e98d5758f84fb": {
+      "date": "2026-07-26",
+      "title": "TouchGrass",
+      "source": "producthunt"
+    },
+    "dd15ee2cc6a450f9": {
+      "date": "2026-07-26",
+      "title": "SF Apartment Finder",
+      "source": "producthunt"
+    },
+    "670763f491a203a6": {
+      "date": "2026-07-26",
+      "title": "yatta!",
+      "source": "producthunt"
+    },
+    "e9e9bcdb60b25401": {
+      "date": "2026-07-26",
+      "title": "KeyOpera 2.0",
+      "source": "producthunt"
+    },
+    "3589e4ac3c794425": {
+      "date": "2026-07-26",
+      "title": "Pulse Island",
+      "source": "producthunt"
+    },
+    "9fe4c4d60a39269c": {
+      "date": "2026-07-26",
+      "title": "Como eu venci o medo da transição de carreira",
+      "source": "devto"
+    },
+    "1c91e4c0d846efc4": {
+      "date": "2026-07-26",
+      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
+      "source": "devto"
+    },
+    "ff219a09f8e71d4c": {
+      "date": "2026-07-26",
+      "title": "Your JSON Array Was Streaming All Along",
+      "source": "devto"
+    },
+    "2f465368e0420efc": {
+      "date": "2026-07-26",
+      "title": "No backend, no database, no network calls. I still found 3 security holes.",
+      "source": "devto"
+    },
+    "4a24bc6a4d20109b": {
+      "date": "2026-07-26",
+      "title": "PWAs Cache Resources. Spirit Installs an Application.",
+      "source": "devto"
+    },
+    "e190d03b43ad9755": {
+      "date": "2026-07-26",
+      "title": "One Task.Run Quietly Killed the BackgroundService Startup Footgun",
+      "source": "devto"
+    },
+    "5e1e3cf8095d0d62": {
+      "date": "2026-07-26",
+      "title": "600 Filters and a 414: The New QUERY Method in .NET 10",
+      "source": "devto"
+    },
+    "030fff06fda00b51": {
+      "date": "2026-07-26",
+      "title": "Don't Wait. Fork It.",
+      "source": "devto"
+    },
+    "3ad51fdb3b4c6789": {
+      "date": "2026-07-26",
+      "title": "I Built an Autonomous On-Chain Agent on Solana: Here's the Documentation I Wish I Had Earlier",
+      "source": "devto"
+    },
+    "d276d7bf4f78d446": {
+      "date": "2026-07-26",
+      "title": "What You Can Do With C#",
+      "source": "devto"
+    },
+    "a2c9c4617f9b3de5": {
+      "date": "2026-07-26",
+      "title": "nodejs / node",
+      "source": "github"
+    },
+    "37ec76a5f2bf0780": {
+      "date": "2026-07-26",
+      "title": "OtterMind / Chat2DB",
+      "source": "github"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-07-26",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "b627289da26ad7fd": {
+      "date": "2026-07-26",
+      "title": "andrewyng / aisuite",
+      "source": "github"
+    },
+    "5ca71ebd0783a4d9": {
+      "date": "2026-07-26",
+      "title": "permissionlesstech / bitchat-android",
       "source": "github"
     }
   }
