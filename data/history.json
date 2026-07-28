@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-27T23:40:43.058125",
+  "last_updated": "2026-07-28T23:34:33.778132",
   "sent_items": {
-    "32c9cee39e6c6d76": {
-      "date": "2026-06-27",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "source": "hackernews"
-    },
-    "da8fbc1a4b495fcf": {
-      "date": "2026-06-27",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "source": "hackernews"
-    },
-    "3b705bc8088743d9": {
-      "date": "2026-06-27",
-      "title": "OpenRA",
-      "source": "hackernews"
-    },
-    "41b9daf68b2b2d21": {
-      "date": "2026-06-27",
-      "title": "Fintech Engineering Handbook",
-      "source": "hackernews"
-    },
-    "1c588e22a528507a": {
-      "date": "2026-06-27",
-      "title": "The case for physical media ownership",
-      "source": "hackernews"
-    },
-    "ba51cc37be17f5bc": {
-      "date": "2026-06-27",
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "source": "hackernews"
-    },
-    "1bc8b9cb5521d3b4": {
-      "date": "2026-06-27",
-      "title": "AI learns the “dark art” of RFIC design",
-      "source": "hackernews"
-    },
-    "af0abad6fcd9e2cb": {
-      "date": "2026-06-27",
-      "title": "Turn your site into a place people can bump into each other",
-      "source": "hackernews"
-    },
-    "6910a232f7ec4418": {
-      "date": "2026-06-27",
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "source": "hackernews"
-    },
-    "2666363f6c713d27": {
-      "date": "2026-06-27",
-      "title": "Enhancing X11 Application Security with LXC",
-      "source": "hackernews"
-    },
-    "0f300b70d5d85ade": {
-      "date": "2026-06-27",
-      "title": "Cloud World Model",
-      "source": "producthunt"
-    },
-    "f12862b50ea23a24": {
-      "date": "2026-06-27",
-      "title": "Supra Player",
-      "source": "producthunt"
-    },
-    "beac9ebb46c00e98": {
-      "date": "2026-06-27",
-      "title": "Nada",
-      "source": "producthunt"
-    },
-    "fc266d1a66185534": {
-      "date": "2026-06-27",
-      "title": "Folio AI",
-      "source": "producthunt"
-    },
-    "cb2b01ea035784e9": {
-      "date": "2026-06-27",
-      "title": "RetroMac",
-      "source": "producthunt"
-    },
-    "8033ef29df6b8320": {
-      "date": "2026-06-27",
-      "title": "Sleek Analytics",
-      "source": "producthunt"
-    },
-    "11b893c97f741ea9": {
-      "date": "2026-06-27",
-      "title": "Engineering a Brainrot art installation on an Orange Pi Zero 🍊",
-      "source": "devto"
-    },
-    "54c7b44f5e39d2b1": {
-      "date": "2026-06-27",
-      "title": "I Built a Serverless VPN on Lambda MicroVMs — 12 Builds, 5 Dead Ends, 1 Working Architecture",
-      "source": "devto"
-    },
-    "e7ed8f701f0bcb03": {
-      "date": "2026-06-27",
-      "title": "How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers",
-      "source": "devto"
-    },
-    "5d3c04dad35e4448": {
-      "date": "2026-06-27",
-      "title": "AI Didn't Invent Slop. It Only Made It Infinite.",
-      "source": "devto"
-    },
-    "4ca7bda5aaefc271": {
-      "date": "2026-06-27",
-      "title": "What I Learned About PDAs in a Week of Building on Solana",
-      "source": "devto"
-    },
-    "243a7839b37d368c": {
-      "date": "2026-06-27",
-      "title": "Choreography of validation: how to make your auth form seamless and usable",
-      "source": "devto"
-    },
-    "8b9f46a1a0432e48": {
-      "date": "2026-06-27",
-      "title": "How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices",
-      "source": "devto"
-    },
-    "87cdde7ddd251968": {
-      "date": "2026-06-27",
-      "title": "I Built a Full-Stack B2B Marketplace in 3 Days With V0, Next.js 16, and Vercel's AWS Integration — H",
-      "source": "devto"
-    },
-    "2d14e20b3dfb59a6": {
-      "date": "2026-06-27",
-      "title": "I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests",
-      "source": "devto"
-    },
-    "9e7c393407630728": {
-      "date": "2026-06-27",
-      "title": "AI Helps Us Write Code Faster. So Why Aren’t Projects Moving Faster?",
-      "source": "devto"
-    },
-    "26454b4b1f40da47": {
-      "date": "2026-06-27",
-      "title": "hugohe3 / ppt-master",
-      "source": "github"
-    },
-    "f2f7e303ad9af8e4": {
-      "date": "2026-06-27",
-      "title": "Anil-matcha / Open-Generative-AI",
-      "source": "github"
-    },
-    "8504c35e23d06b6e": {
-      "date": "2026-06-27",
-      "title": "dbt-labs / dbt-core",
-      "source": "github"
-    },
     "a92ea7afdd55aefe": {
       "date": "2026-06-28",
       "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -5025,6 +4880,171 @@
     "337bb58fd3dab250": {
       "date": "2026-07-27",
       "title": "ocornut / imgui",
+      "source": "github"
+    },
+    "de2fd5acd51b0554": {
+      "date": "2026-07-28",
+      "title": "Substack writers, you need a website",
+      "source": "hackernews"
+    },
+    "8cf35aebd06a8a75": {
+      "date": "2026-07-28",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "source": "hackernews"
+    },
+    "2a9bb2bf7afb0f86": {
+      "date": "2026-07-28",
+      "title": "OpenAI just open-sourced Codex Security",
+      "source": "hackernews"
+    },
+    "0128a6806bf564c7": {
+      "date": "2026-07-28",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "source": "hackernews"
+    },
+    "4136a28fa8a8af27": {
+      "date": "2026-07-28",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "source": "hackernews"
+    },
+    "b42ee2dcd776a949": {
+      "date": "2026-07-28",
+      "title": "Half-Life ported to Mac OS 9",
+      "source": "hackernews"
+    },
+    "0d7616d8cd405b5f": {
+      "date": "2026-07-28",
+      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+      "source": "hackernews"
+    },
+    "e46640725feb7acd": {
+      "date": "2026-07-28",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "source": "hackernews"
+    },
+    "983dae7933183982": {
+      "date": "2026-07-28",
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "source": "hackernews"
+    },
+    "7f49147d9d1c8bf5": {
+      "date": "2026-07-28",
+      "title": "Banning AI will not make it go away",
+      "source": "hackernews"
+    },
+    "54a5a7d4c509e887": {
+      "date": "2026-07-28",
+      "title": "Pinery Prose",
+      "source": "producthunt"
+    },
+    "f90d5c629e788c70": {
+      "date": "2026-07-28",
+      "title": "Lamoom",
+      "source": "producthunt"
+    },
+    "57ef38d928e9cb29": {
+      "date": "2026-07-28",
+      "title": "Ycode AI Agents",
+      "source": "producthunt"
+    },
+    "240fd339e411bf8d": {
+      "date": "2026-07-28",
+      "title": "SUB/WAVE",
+      "source": "producthunt"
+    },
+    "1666fe988448d25f": {
+      "date": "2026-07-28",
+      "title": "ZenithBar",
+      "source": "producthunt"
+    },
+    "f4fbe4ee519191bf": {
+      "date": "2026-07-28",
+      "title": "Phantom",
+      "source": "producthunt"
+    },
+    "76114fd885edf904": {
+      "date": "2026-07-28",
+      "title": "MCP-Billing",
+      "source": "producthunt"
+    },
+    "2cd00719ba4ca7ca": {
+      "date": "2026-07-28",
+      "title": "EasyCircuit",
+      "source": "producthunt"
+    },
+    "2df5c7e5656a3f8f": {
+      "date": "2026-07-28",
+      "title": "Understanding Over Origin",
+      "source": "devto"
+    },
+    "935d5c1f260ddf6c": {
+      "date": "2026-07-28",
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "source": "devto"
+    },
+    "7d8338d801f4b44d": {
+      "date": "2026-07-28",
+      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
+      "source": "devto"
+    },
+    "a7a1706a835e6ea4": {
+      "date": "2026-07-28",
+      "title": "I Had a Lot of Fun Building a Linux Packet Flight Recorder",
+      "source": "devto"
+    },
+    "d46c7a4796e369ef": {
+      "date": "2026-07-28",
+      "title": "Vibe Coding: Endgame",
+      "source": "devto"
+    },
+    "e41f4461b7dd014e": {
+      "date": "2026-07-28",
+      "title": "If Your AI Agent Has Write Access to Public Repos, Audit It Now — Here's Why",
+      "source": "devto"
+    },
+    "fc1ae3ec8b266798": {
+      "date": "2026-07-28",
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "source": "devto"
+    },
+    "69d0f75dc27b238f": {
+      "date": "2026-07-28",
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-i",
+      "source": "devto"
+    },
+    "e9483dcc5311e238": {
+      "date": "2026-07-28",
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "source": "devto"
+    },
+    "ea3a582c04d3f246": {
+      "date": "2026-07-28",
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "source": "devto"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-07-28",
+      "title": "pascalorg / editor",
+      "source": "github"
+    },
+    "861d4c5ecdfff7a8": {
+      "date": "2026-07-28",
+      "title": "huggingface / speech-to-speech",
+      "source": "github"
+    },
+    "543fba56e9cf616a": {
+      "date": "2026-07-28",
+      "title": "virgiliojr94 / book-to-skill",
+      "source": "github"
+    },
+    "8ad77482faae9799": {
+      "date": "2026-07-28",
+      "title": "paperswithbacktest / awesome-systematic-trading",
+      "source": "github"
+    },
+    "2b9d770ccfd92a6b": {
+      "date": "2026-07-28",
+      "title": "microsoft / agent-governance-toolkit",
       "source": "github"
     }
   }
