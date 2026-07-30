@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-29T23:37:36.935370",
+  "last_updated": "2026-07-30T23:37:03.560791",
   "sent_items": {
-    "8e97119366c72288": {
-      "date": "2026-06-29",
-      "title": "Agent Mode by Receiptor AI",
-      "source": "producthunt"
-    },
-    "32503ba63486b9fb": {
-      "date": "2026-06-29",
-      "title": "ReadHere",
-      "source": "producthunt"
-    },
-    "229933726f606af3": {
-      "date": "2026-06-29",
-      "title": "PMB",
-      "source": "producthunt"
-    },
-    "802cb9dbc9986a3e": {
-      "date": "2026-06-29",
-      "title": "ClinePass",
-      "source": "producthunt"
-    },
-    "c2faeb8266eb868f": {
-      "date": "2026-06-29",
-      "title": "Intelli",
-      "source": "producthunt"
-    },
-    "54286e7220becd57": {
-      "date": "2026-06-29",
-      "title": "Outpaint - Ad Reframe",
-      "source": "producthunt"
-    },
-    "5b6d93d8930ececf": {
-      "date": "2026-06-29",
-      "title": "Crest",
-      "source": "producthunt"
-    },
-    "423d723a1710df22": {
-      "date": "2026-06-29",
-      "title": "Upstream FTP",
-      "source": "producthunt"
-    },
-    "8b91b54af28fcdcd": {
-      "date": "2026-06-29",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "source": "hackernews"
-    },
-    "e2a13eaa1bb52fc1": {
-      "date": "2026-06-29",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "source": "hackernews"
-    },
-    "7e3aa5181c0b82ab": {
-      "date": "2026-06-29",
-      "title": "Rocketlab acquires Iridium",
-      "source": "hackernews"
-    },
-    "cb7ed75f3e4ad9f0": {
-      "date": "2026-06-29",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "source": "hackernews"
-    },
-    "c67e041a00783740": {
-      "date": "2026-06-29",
-      "title": "A native graphical shell for SSH",
-      "source": "hackernews"
-    },
-    "5387d408808c8852": {
-      "date": "2026-06-29",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "source": "hackernews"
-    },
-    "c999260e5b9c72e9": {
-      "date": "2026-06-29",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "source": "hackernews"
-    },
-    "a320a4c345e68c0e": {
-      "date": "2026-06-29",
-      "title": "Free the Icons",
-      "source": "hackernews"
-    },
-    "6afe8ef7a5d619e7": {
-      "date": "2026-06-29",
-      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "source": "hackernews"
-    },
-    "3c1fbcdc61b1e06b": {
-      "date": "2026-06-29",
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "source": "hackernews"
-    },
-    "1f1729780c9ba3fd": {
-      "date": "2026-06-29",
-      "title": "logto-io / logto",
-      "source": "github"
-    },
-    "7e0d59e881f79bfe": {
-      "date": "2026-06-29",
-      "title": "Unclecheng-li / VulnClaw",
-      "source": "github"
-    },
-    "9e1ff9678ff9f949": {
-      "date": "2026-06-29",
-      "title": "0xNyk / council-of-high-intelligence",
-      "source": "github"
-    },
-    "ab4a09cbd2d5978d": {
-      "date": "2026-06-29",
-      "title": "veracrypt / VeraCrypt",
-      "source": "github"
-    },
-    "2dddbae840e4780f": {
-      "date": "2026-06-29",
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "source": "devto"
-    },
-    "d68504355a394557": {
-      "date": "2026-06-29",
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "source": "devto"
-    },
-    "c80495243c3373bb": {
-      "date": "2026-06-29",
-      "title": "What's Next for AI?",
-      "source": "devto"
-    },
-    "5d5d09c0b53c01e0": {
-      "date": "2026-06-29",
-      "title": "My commit message said \"You've hit your session limit\"",
-      "source": "devto"
-    },
-    "d9c4ac8357663370": {
-      "date": "2026-06-29",
-      "title": "You’re not really that far behind.",
-      "source": "devto"
-    },
-    "cf6368d7ebb2853c": {
-      "date": "2026-06-29",
-      "title": "What Actually Happens When You Call an LLM API",
-      "source": "devto"
-    },
-    "fdb550e3f1cb4884": {
-      "date": "2026-06-29",
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "source": "devto"
-    },
-    "046f7d63ca378c8c": {
-      "date": "2026-06-29",
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "source": "devto"
-    },
-    "1c701b3ce88a1484": {
-      "date": "2026-06-29",
-      "title": "What are your goals for the week? #185",
-      "source": "devto"
-    },
-    "46a39f323b7d2c7b": {
-      "date": "2026-06-29",
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "source": "devto"
-    },
     "fba550e7a7eedf48": {
       "date": "2026-06-30",
       "title": "Claude Code is steganographically marking requests",
@@ -5071,6 +4911,166 @@
       "date": "2026-07-29",
       "title": "maderix / ANE",
       "source": "github"
+    },
+    "925e5b650ff4d143": {
+      "date": "2026-07-30",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "source": "hackernews"
+    },
+    "9f753904c4945eea": {
+      "date": "2026-07-30",
+      "title": "Read this before you buy that TV streaming stick",
+      "source": "hackernews"
+    },
+    "294161fcfd13af80": {
+      "date": "2026-07-30",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "source": "hackernews"
+    },
+    "56605925938a4b46": {
+      "date": "2026-07-30",
+      "title": "Stacked PRs are now live on GitHub",
+      "source": "hackernews"
+    },
+    "7baf6e778facb5a4": {
+      "date": "2026-07-30",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "source": "hackernews"
+    },
+    "5826dc5ad56aaba4": {
+      "date": "2026-07-30",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "source": "hackernews"
+    },
+    "dba5a92f23d0cce0": {
+      "date": "2026-07-30",
+      "title": "CodePen 2.0",
+      "source": "hackernews"
+    },
+    "dee0daa0ffa3272c": {
+      "date": "2026-07-30",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "source": "hackernews"
+    },
+    "9a18eaaf33c48e09": {
+      "date": "2026-07-30",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "source": "hackernews"
+    },
+    "5f8dc2b2c70ad516": {
+      "date": "2026-07-30",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "source": "hackernews"
+    },
+    "0a838b05cf778814": {
+      "date": "2026-07-30",
+      "title": "Yap",
+      "source": "producthunt"
+    },
+    "7150472d9770ad9c": {
+      "date": "2026-07-30",
+      "title": "SKI",
+      "source": "producthunt"
+    },
+    "d31a312cf647369c": {
+      "date": "2026-07-30",
+      "title": "Focus Room",
+      "source": "producthunt"
+    },
+    "63ee4f0888b216c2": {
+      "date": "2026-07-30",
+      "title": "Pally",
+      "source": "producthunt"
+    },
+    "9249db2ec9ca04f6": {
+      "date": "2026-07-30",
+      "title": "Claude Code usage tracking by LangWatch",
+      "source": "producthunt"
+    },
+    "bb7734bf26324c33": {
+      "date": "2026-07-30",
+      "title": "docktor",
+      "source": "producthunt"
+    },
+    "1c1fe7be3d34f6a9": {
+      "date": "2026-07-30",
+      "title": "Phantom Voice",
+      "source": "producthunt"
+    },
+    "bb702610b385f88b": {
+      "date": "2026-07-30",
+      "title": "Sorinai",
+      "source": "producthunt"
+    },
+    "1057d7f3dcb63c1c": {
+      "date": "2026-07-30",
+      "title": "WhiskeySockets / Baileys",
+      "source": "github"
+    },
+    "92a38e4bf3c74440": {
+      "date": "2026-07-30",
+      "title": "dotnet / aspnetcore",
+      "source": "github"
+    },
+    "2cd560aef18e9807": {
+      "date": "2026-07-30",
+      "title": "microsoft / PowerToys",
+      "source": "github"
+    },
+    "750b405ab3402451": {
+      "date": "2026-07-30",
+      "title": "agavra / tuicr",
+      "source": "github"
+    },
+    "cd3191dc0990849a": {
+      "date": "2026-07-30",
+      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
+      "source": "devto"
+    },
+    "a1bd84ff301886cf": {
+      "date": "2026-07-30",
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "source": "devto"
+    },
+    "d6522bc432345e0a": {
+      "date": "2026-07-30",
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "source": "devto"
+    },
+    "edebb5192d2a9596": {
+      "date": "2026-07-30",
+      "title": "Does it still make sense to learn how to code?",
+      "source": "devto"
+    },
+    "3aee2e12d998712e": {
+      "date": "2026-07-30",
+      "title": "From Open Source to Paid Product: Is AI Accelerating the Shift?",
+      "source": "devto"
+    },
+    "3841be615430d337": {
+      "date": "2026-07-30",
+      "title": "You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.",
+      "source": "devto"
+    },
+    "14c18a52c45ad361": {
+      "date": "2026-07-30",
+      "title": "What Actually Happens After You Send a Webhook",
+      "source": "devto"
+    },
+    "53fe432cbd3426e8": {
+      "date": "2026-07-30",
+      "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
+      "source": "devto"
+    },
+    "91142f27f652542e": {
+      "date": "2026-07-30",
+      "title": "I tried to compile TypeScript into a native binary with scriptc",
+      "source": "devto"
+    },
+    "671bc2efa5509045": {
+      "date": "2026-07-30",
+      "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
+      "source": "devto"
     }
   }
 }
