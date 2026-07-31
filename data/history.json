@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-30T23:37:03.560791",
+  "last_updated": "2026-07-31T23:37:36.817923",
   "sent_items": {
-    "fba550e7a7eedf48": {
-      "date": "2026-06-30",
-      "title": "Claude Code is steganographically marking requests",
-      "source": "hackernews"
-    },
-    "9b2ad380c4695f22": {
-      "date": "2026-06-30",
-      "title": "Claude Sonnet 5",
-      "source": "hackernews"
-    },
-    "20ad65b3d8aefd29": {
-      "date": "2026-06-30",
-      "title": "Claude Science",
-      "source": "hackernews"
-    },
-    "ebf8cf7f5598dd53": {
-      "date": "2026-06-30",
-      "title": "Nano Banana 2 Lite",
-      "source": "hackernews"
-    },
-    "c7620228444deafa": {
-      "date": "2026-06-30",
-      "title": "I ported Kubernetes to the browser",
-      "source": "hackernews"
-    },
-    "9ba7400215896fc5": {
-      "date": "2026-06-30",
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "source": "hackernews"
-    },
-    "46fd8334bfb18825": {
-      "date": "2026-06-30",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "source": "hackernews"
-    },
-    "8e9ce4c602287034": {
-      "date": "2026-06-30",
-      "title": "Leanstral 1.5",
-      "source": "hackernews"
-    },
-    "b6443377bf278ec2": {
-      "date": "2026-06-30",
-      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "source": "hackernews"
-    },
-    "346fa1f410dc5029": {
-      "date": "2026-06-30",
-      "title": "Hengefinder",
-      "source": "hackernews"
-    },
-    "86edef7453693483": {
-      "date": "2026-06-30",
-      "title": "Oakamo",
-      "source": "producthunt"
-    },
-    "ca1c0a51e598b478": {
-      "date": "2026-06-30",
-      "title": "Akiflow",
-      "source": "producthunt"
-    },
-    "ff26bc3838465381": {
-      "date": "2026-06-30",
-      "title": "Midway Chat",
-      "source": "producthunt"
-    },
-    "039b1297dbd0b9b9": {
-      "date": "2026-06-30",
-      "title": "Brain2Qwerty v2",
-      "source": "producthunt"
-    },
-    "7953fe8152abb155": {
-      "date": "2026-06-30",
-      "title": "Pluno",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-06-30",
-      "title": "Cursor for iOS",
-      "source": "producthunt"
-    },
-    "4e0ae3e0fc3e09da": {
-      "date": "2026-06-30",
-      "title": "v0 Design Systems 2.0",
-      "source": "producthunt"
-    },
-    "18c3b2dc44abea8b": {
-      "date": "2026-06-30",
-      "title": "Justwrite",
-      "source": "producthunt"
-    },
-    "fada5e4b86d4e65e": {
-      "date": "2026-06-30",
-      "title": "The Future Of AI Is Local And Open",
-      "source": "devto"
-    },
-    "a7f283ec16c25ef3": {
-      "date": "2026-06-30",
-      "title": "This Is Software’s iPhone Moment",
-      "source": "devto"
-    },
-    "5ce4b818dac9ab2e": {
-      "date": "2026-06-30",
-      "title": "AI Engineer Meets AI Engineer",
-      "source": "devto"
-    },
-    "36f043643286eb5f": {
-      "date": "2026-06-30",
-      "title": "The Log Is the Agent",
-      "source": "devto"
-    },
-    "b3fbf6f96b8d0fc8": {
-      "date": "2026-06-30",
-      "title": "Someone Else Pays for Your AI Access",
-      "source": "devto"
-    },
-    "6ebc937a8ec7cc3d": {
-      "date": "2026-06-30",
-      "title": "You Don’t Always Need The Frontier",
-      "source": "devto"
-    },
-    "83a23b9bf1a8e689": {
-      "date": "2026-06-30",
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "source": "devto"
-    },
-    "ed848ad1de51bc2a": {
-      "date": "2026-06-30",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "30044b9adfe7c86f": {
-      "date": "2026-06-30",
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "source": "devto"
-    },
-    "592ef1c6b6d6c185": {
-      "date": "2026-06-30",
-      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
-      "source": "devto"
-    },
-    "ac45b546f1b96f0f": {
-      "date": "2026-06-30",
-      "title": "hasaneyldrm / exercises-dataset",
-      "source": "github"
-    },
-    "10942d97d561cb4c": {
-      "date": "2026-06-30",
-      "title": "diegosouzapw / OmniRoute",
-      "source": "github"
-    },
-    "e665646e6d6bb4d6": {
-      "date": "2026-06-30",
-      "title": "Mebus / cupp",
-      "source": "github"
-    },
-    "f7881b53deff036c": {
-      "date": "2026-06-30",
-      "title": "google / agents-cli",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-06-30",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
-    "db7f927fbf3135e2": {
-      "date": "2026-06-30",
-      "title": "ogulcancelik / herdr",
-      "source": "github"
-    },
-    "b592dd6b10824215": {
-      "date": "2026-06-30",
-      "title": "CoreBunch / Instatic",
-      "source": "github"
-    },
-    "e67e2c38cce6781c": {
-      "date": "2026-06-30",
-      "title": "microsoft / AI-For-Beginners",
-      "source": "github"
-    },
     "084d765c81983169": {
       "date": "2026-07-01",
       "title": "For first time, a cell built from scratch grows and divides",
@@ -5071,6 +4891,166 @@
       "date": "2026-07-30",
       "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
       "source": "devto"
+    },
+    "3e8241c068c3a7ca": {
+      "date": "2026-07-31",
+      "title": "Elevators",
+      "source": "hackernews"
+    },
+    "853327189d11dc3d": {
+      "date": "2026-07-31",
+      "title": "qm",
+      "source": "hackernews"
+    },
+    "024168c012af71c0": {
+      "date": "2026-07-31",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "source": "hackernews"
+    },
+    "08cc1fad969c8b95": {
+      "date": "2026-07-31",
+      "title": "Big Food vs. the People",
+      "source": "hackernews"
+    },
+    "162cdeed53c6fddd": {
+      "date": "2026-07-31",
+      "title": "Golang proposal: container/: generic collection types",
+      "source": "hackernews"
+    },
+    "104e273bc7a7b2b3": {
+      "date": "2026-07-31",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "source": "hackernews"
+    },
+    "69b5b9d520b5a923": {
+      "date": "2026-07-31",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "source": "hackernews"
+    },
+    "4faf146ab0703fea": {
+      "date": "2026-07-31",
+      "title": "Progressive Web Components",
+      "source": "hackernews"
+    },
+    "187404f26d017607": {
+      "date": "2026-07-31",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "source": "hackernews"
+    },
+    "8f4cbc4f40074d3d": {
+      "date": "2026-07-31",
+      "title": "The Absurdity of Albert Camus",
+      "source": "hackernews"
+    },
+    "837eddf5a9c8b6f3": {
+      "date": "2026-07-31",
+      "title": "MiniMax H3",
+      "source": "producthunt"
+    },
+    "335c0a9fc1f0ed83": {
+      "date": "2026-07-31",
+      "title": "Cleanlist AI",
+      "source": "producthunt"
+    },
+    "08ba3357cff2edd4": {
+      "date": "2026-07-31",
+      "title": "mectrics",
+      "source": "producthunt"
+    },
+    "c809cf6bc34361ea": {
+      "date": "2026-07-31",
+      "title": "DepthData",
+      "source": "producthunt"
+    },
+    "dadff0911e3944bf": {
+      "date": "2026-07-31",
+      "title": "Screencap",
+      "source": "producthunt"
+    },
+    "4df32cf643871926": {
+      "date": "2026-07-31",
+      "title": "Poth Labs",
+      "source": "producthunt"
+    },
+    "5da8f463579a43e6": {
+      "date": "2026-07-31",
+      "title": "Gemini Robotics 2",
+      "source": "producthunt"
+    },
+    "86b552b0220c9652": {
+      "date": "2026-07-31",
+      "title": "witr",
+      "source": "producthunt"
+    },
+    "3d02601f339f3f68": {
+      "date": "2026-07-31",
+      "title": "Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week & Learn",
+      "source": "devto"
+    },
+    "4cccc93931f28374": {
+      "date": "2026-07-31",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "8be6015f02b56c19": {
+      "date": "2026-07-31",
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "source": "devto"
+    },
+    "f5c1f62e994eabcb": {
+      "date": "2026-07-31",
+      "title": "ratatop day 3: disks, statvfs, and my first unsafe block",
+      "source": "devto"
+    },
+    "cca5e42e6db0bc93": {
+      "date": "2026-07-31",
+      "title": "Fixing Exact Package Search Relevance in npmx",
+      "source": "devto"
+    },
+    "b85ece9aaae3c66d": {
+      "date": "2026-07-31",
+      "title": "Hardening an AI coding agent: the failures, and the code that fixed them",
+      "source": "devto"
+    },
+    "72e93ccbdc36c66e": {
+      "date": "2026-07-31",
+      "title": "Collaborative Filtering: How Computers Find Your Next Favourite Thing",
+      "source": "devto"
+    },
+    "74d2f1268e711e53": {
+      "date": "2026-07-31",
+      "title": "How I Put My Agent in CI to Automate Release Notes",
+      "source": "devto"
+    },
+    "140752027af1bb0d": {
+      "date": "2026-07-31",
+      "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
+      "source": "devto"
+    },
+    "f039ae40894f45d0": {
+      "date": "2026-07-31",
+      "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
+      "source": "devto"
+    },
+    "7445d3b513aec3d0": {
+      "date": "2026-07-31",
+      "title": "zhaoxuya520 / reverse-skill",
+      "source": "github"
+    },
+    "81f110db762452f4": {
+      "date": "2026-07-31",
+      "title": "chatwoot / chatwoot",
+      "source": "github"
+    },
+    "e46fc4b3de8850fd": {
+      "date": "2026-07-31",
+      "title": "usekaneo / kaneo",
+      "source": "github"
+    },
+    "46d3fee174b7b1b7": {
+      "date": "2026-07-31",
+      "title": "geo-tp / ESP32-Bit-Pirate",
+      "source": "github"
     }
   }
 }
