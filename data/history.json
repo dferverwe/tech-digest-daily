@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-31T23:37:36.817923",
+  "last_updated": "2026-08-01T23:34:43.666416",
   "sent_items": {
-    "084d765c81983169": {
-      "date": "2026-07-01",
-      "title": "For first time, a cell built from scratch grows and divides",
-      "source": "hackernews"
-    },
-    "a12deb738a9b8217": {
-      "date": "2026-07-01",
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "source": "hackernews"
-    },
-    "d30c9de1be576f32": {
-      "date": "2026-07-01",
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "source": "hackernews"
-    },
-    "949f5ecdede5c44b": {
-      "date": "2026-07-01",
-      "title": "What to learn to be a graphics programmer",
-      "source": "hackernews"
-    },
-    "d5223d9152909e82": {
-      "date": "2026-07-01",
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "source": "hackernews"
-    },
-    "c6c2491bd7674539": {
-      "date": "2026-07-01",
-      "title": "ZCode – Harness for GLM-5.2",
-      "source": "hackernews"
-    },
-    "bf8e2aa13a4b247a": {
-      "date": "2026-07-01",
-      "title": "Qualcomm Linux 2.0",
-      "source": "hackernews"
-    },
-    "3b09fdd4bc0ceb77": {
-      "date": "2026-07-01",
-      "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
-      "source": "hackernews"
-    },
-    "b1c50a8b5ad84a7a": {
-      "date": "2026-07-01",
-      "title": "Chip Off the Old Block",
-      "source": "hackernews"
-    },
-    "269481c3846e9d1c": {
-      "date": "2026-07-01",
-      "title": "The Underhanded C Contest",
-      "source": "hackernews"
-    },
-    "b35ccb04fbf73f21": {
-      "date": "2026-07-01",
-      "title": "Stigg 2.0",
-      "source": "producthunt"
-    },
-    "db1466ae47f47dd5": {
-      "date": "2026-07-01",
-      "title": "Gemini Omni Flash",
-      "source": "producthunt"
-    },
-    "fd77a6035551a197": {
-      "date": "2026-07-01",
-      "title": "Metal",
-      "source": "producthunt"
-    },
-    "07d829294732f270": {
-      "date": "2026-07-01",
-      "title": "Clusy",
-      "source": "producthunt"
-    },
-    "64f1c2480a008060": {
-      "date": "2026-07-01",
-      "title": "LightTwist",
-      "source": "producthunt"
-    },
-    "7463c618aaf12197": {
-      "date": "2026-07-01",
-      "title": "Browser Notes",
-      "source": "producthunt"
-    },
-    "1b630a4528e975fa": {
-      "date": "2026-07-01",
-      "title": "Claude Sonnet 5",
-      "source": "producthunt"
-    },
-    "837545b135115f9b": {
-      "date": "2026-07-01",
-      "title": "Loot",
-      "source": "producthunt"
-    },
-    "38a3a0fd4b70b820": {
-      "date": "2026-07-01",
-      "title": "My First Year at DEV Recap",
-      "source": "devto"
-    },
-    "ecd00f23b39c9b6d": {
-      "date": "2026-07-01",
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "source": "devto"
-    },
-    "d1c00af096a2c44b": {
-      "date": "2026-07-01",
-      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
-      "source": "devto"
-    },
-    "c925fc206830926b": {
-      "date": "2026-07-01",
-      "title": "The Agentic, Ironclad Onion",
-      "source": "devto"
-    },
-    "4b6c4869e821d3f9": {
-      "date": "2026-07-01",
-      "title": "It’s Time To Put Humans Back In The Software",
-      "source": "devto"
-    },
-    "99843019e01fcfb6": {
-      "date": "2026-07-01",
-      "title": "DevRel in the Age of AI Is A Search for Meaning",
-      "source": "devto"
-    },
-    "a8c0bfd52783e1dd": {
-      "date": "2026-07-01",
-      "title": "Token Town",
-      "source": "devto"
-    },
-    "d258ee7e1459b8aa": {
-      "date": "2026-07-01",
-      "title": "Optimizing for Agents with llms.txt",
-      "source": "devto"
-    },
-    "214967237eb833f4": {
-      "date": "2026-07-01",
-      "title": "Stratagems #4: P Walked Into an AI Monitoring POC. P Didn't Run a Single Test.",
-      "source": "devto"
-    },
-    "14bf7d1408629b3f": {
-      "date": "2026-07-01",
-      "title": "Build a Minimal WebMCP Agent with Playwright and Gemini",
-      "source": "devto"
-    },
-    "af5e1c06972b6063": {
-      "date": "2026-07-01",
-      "title": "facebook / astryx",
-      "source": "github"
-    },
-    "7dc28f2cebb2845c": {
-      "date": "2026-07-01",
-      "title": "allenai / olmocr",
-      "source": "github"
-    },
-    "27ed64f7c2ff1b61": {
-      "date": "2026-07-01",
-      "title": "togatoga / karukan",
-      "source": "github"
-    },
     "3f0e1b5456b65d43": {
       "date": "2026-07-02",
       "title": "PeerTube is a free, decentralized and federated video platform",
@@ -5050,6 +4895,181 @@
     "46d3fee174b7b1b7": {
       "date": "2026-07-31",
       "title": "geo-tp / ESP32-Bit-Pirate",
+      "source": "github"
+    },
+    "b3adcaec08be542c": {
+      "date": "2026-08-01",
+      "title": "The Art of 64-bit Assembly",
+      "source": "hackernews"
+    },
+    "6dbc532b9ee90b10": {
+      "date": "2026-08-01",
+      "title": "Diátaxis",
+      "source": "hackernews"
+    },
+    "e4e5f3b9e7d18f7c": {
+      "date": "2026-08-01",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "source": "hackernews"
+    },
+    "e836b9e1bee1a1d8": {
+      "date": "2026-08-01",
+      "title": "Just because a game is on disc doesn't mean it will work in the future",
+      "source": "hackernews"
+    },
+    "1746f99df19d101b": {
+      "date": "2026-08-01",
+      "title": "Seedance 2.5",
+      "source": "hackernews"
+    },
+    "2af7715e9dc023ef": {
+      "date": "2026-08-01",
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "source": "hackernews"
+    },
+    "52bd84de9cfe9cf5": {
+      "date": "2026-08-01",
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "source": "hackernews"
+    },
+    "cbcaf7d982754c40": {
+      "date": "2026-08-01",
+      "title": "But can your calculator run Linux?",
+      "source": "hackernews"
+    },
+    "3c93be360d9ecc7d": {
+      "date": "2026-08-01",
+      "title": "Nyctography: A substituton cypher by Lewis Carroll",
+      "source": "hackernews"
+    },
+    "9c0337b2fa8c8052": {
+      "date": "2026-08-01",
+      "title": "Unraveling the mysteries of habit formation",
+      "source": "hackernews"
+    },
+    "437770a271d95fd6": {
+      "date": "2026-08-01",
+      "title": "SyncStaq",
+      "source": "producthunt"
+    },
+    "ddde8478eede37b4": {
+      "date": "2026-08-01",
+      "title": "DeepSeek-V4-Flash-0731",
+      "source": "producthunt"
+    },
+    "d2bf65ecd76b0e23": {
+      "date": "2026-08-01",
+      "title": "Yamanote 3D",
+      "source": "producthunt"
+    },
+    "61ca52a90c00a787": {
+      "date": "2026-08-01",
+      "title": "Tandem",
+      "source": "producthunt"
+    },
+    "7086ecc66ffda31f": {
+      "date": "2026-08-01",
+      "title": "Kopai",
+      "source": "producthunt"
+    },
+    "9edd83739bad6894": {
+      "date": "2026-08-01",
+      "title": "AgentMicro",
+      "source": "producthunt"
+    },
+    "f03a376a713ef39d": {
+      "date": "2026-08-01",
+      "title": "EssayKraft",
+      "source": "producthunt"
+    },
+    "1304a8021347b716": {
+      "date": "2026-08-01",
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "source": "devto"
+    },
+    "c21a8620095039ee": {
+      "date": "2026-08-01",
+      "title": "CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix",
+      "source": "devto"
+    },
+    "14c2b907fe3370a7": {
+      "date": "2026-08-01",
+      "title": "ratatop: the network box, and why your ISP lies with units",
+      "source": "devto"
+    },
+    "d5dd422248abd25b": {
+      "date": "2026-08-01",
+      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
+      "source": "devto"
+    },
+    "39a320ea08cab2a5": {
+      "date": "2026-08-01",
+      "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
+      "source": "devto"
+    },
+    "a3707e06386d3446": {
+      "date": "2026-08-01",
+      "title": "Gravy Boat — a landing page with a CSS poutine you can drown in!",
+      "source": "devto"
+    },
+    "541d9d354471f223": {
+      "date": "2026-08-01",
+      "title": "Poutine: the true food of the gods",
+      "source": "devto"
+    },
+    "6e0d9d4c93ee08d5": {
+      "date": "2026-08-01",
+      "title": "Why Agent Evaluation Is Harder Than Model Evaluation",
+      "source": "devto"
+    },
+    "5d597406f6af7fa7": {
+      "date": "2026-08-01",
+      "title": "Pascal Programming",
+      "source": "devto"
+    },
+    "b78875220adbd23c": {
+      "date": "2026-08-01",
+      "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
+      "source": "devto"
+    },
+    "e67e2c38cce6781c": {
+      "date": "2026-08-01",
+      "title": "microsoft / AI-For-Beginners",
+      "source": "github"
+    },
+    "4e308eb7afe62c72": {
+      "date": "2026-08-01",
+      "title": "microsoft / generative-ai-for-beginners",
+      "source": "github"
+    },
+    "e82f8ca3ecc61b6c": {
+      "date": "2026-08-01",
+      "title": "github / gh-stack",
+      "source": "github"
+    },
+    "51b3fb36b568ae94": {
+      "date": "2026-08-01",
+      "title": "abus-aikorea / voice-pro",
+      "source": "github"
+    },
+    "7026d70d272e7f07": {
+      "date": "2026-08-01",
+      "title": "iv-org / invidious",
+      "source": "github"
+    },
+    "19b144cbaabc3122": {
+      "date": "2026-08-01",
+      "title": "microsoft / TRELLIS.2",
+      "source": "github"
+    },
+    "b88ceb3d1250fce4": {
+      "date": "2026-08-01",
+      "title": "NomaDamas / k-skill",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-08-01",
+      "title": "bytedance / deer-flow",
       "source": "github"
     }
   }
