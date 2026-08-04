@@ -1,142 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-03T23:42:24.618537",
+  "last_updated": "2026-08-04T23:37:38.007852",
   "sent_items": {
-    "c2c60d9da6178892": {
-      "date": "2026-07-04",
-      "title": "Leaking YouTube creators' private videos",
-      "source": "hackernews"
-    },
-    "5622c8843cfec74c": {
-      "date": "2026-07-04",
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "source": "hackernews"
-    },
-    "f2169834bccf674f": {
-      "date": "2026-07-04",
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "source": "hackernews"
-    },
-    "ec14e8ba0b4833f4": {
-      "date": "2026-07-04",
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "source": "hackernews"
-    },
-    "237a5c0312867f79": {
-      "date": "2026-07-04",
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "source": "hackernews"
-    },
-    "840e15300deb6dc2": {
-      "date": "2026-07-04",
-      "title": "Verizon is About to Break our Watches",
-      "source": "hackernews"
-    },
-    "e48741dd7b6cc272": {
-      "date": "2026-07-04",
-      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "source": "hackernews"
-    },
-    "7887c58056129834": {
-      "date": "2026-07-04",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "source": "hackernews"
-    },
-    "e05c83752d2bc226": {
-      "date": "2026-07-04",
-      "title": "Drone Physics",
-      "source": "hackernews"
-    },
-    "5d8627e5c33aba79": {
-      "date": "2026-07-04",
-      "title": "Better Models: Worse Tools",
-      "source": "hackernews"
-    },
-    "03cad9028ecd6545": {
-      "date": "2026-07-04",
-      "title": "ChecklistFox",
-      "source": "producthunt"
-    },
-    "f705f973a5b91eda": {
-      "date": "2026-07-04",
-      "title": "Termi Protocol",
-      "source": "producthunt"
-    },
-    "6e8e1d669e818cc5": {
-      "date": "2026-07-04",
-      "title": "From 0 Likes to Meme Engineer",
-      "source": "devto"
-    },
-    "5b0b991f819faeed": {
-      "date": "2026-07-04",
-      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
-      "source": "devto"
-    },
-    "dc4c032afe1270ec": {
-      "date": "2026-07-04",
-      "title": "A New Personal Best: What Six Months of Locking In Can Do",
-      "source": "devto"
-    },
-    "8fae141de6ccb8b3": {
-      "date": "2026-07-04",
-      "title": "HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.",
-      "source": "devto"
-    },
-    "bd0a35f82af34346": {
-      "date": "2026-07-04",
-      "title": "Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)",
-      "source": "devto"
-    },
-    "773dfb991b27a2d2": {
-      "date": "2026-07-04",
-      "title": "I Built My Own Text Editor",
-      "source": "devto"
-    },
-    "450e201c80da863e": {
-      "date": "2026-07-04",
-      "title": "AI For Fun! Électrique Chats for Hack the Kitty, Built with Kiro.",
-      "source": "devto"
-    },
-    "008652384c738989": {
-      "date": "2026-07-04",
-      "title": "My credential rule reported 842 secrets in vercel/ai. The real count was 0.",
-      "source": "devto"
-    },
-    "31a405910e79335b": {
-      "date": "2026-07-04",
-      "title": "Adding Homemade TLS to a Homemade Web Server",
-      "source": "devto"
-    },
-    "23c74af865d5f8df": {
-      "date": "2026-07-04",
-      "title": "What Google's \"Microservices Are Dead\" Paper Actually Said (And What It Missed About AI)",
-      "source": "devto"
-    },
-    "d194019407f9c70f": {
-      "date": "2026-07-04",
-      "title": "Zackriya-Solutions / meetily",
-      "source": "github"
-    },
-    "3675b0176088850f": {
-      "date": "2026-07-04",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "5acadd2fc4547853": {
-      "date": "2026-07-04",
-      "title": "dotnet / skills",
-      "source": "github"
-    },
-    "f6d44bafc3780456": {
-      "date": "2026-07-04",
-      "title": "immich-app / immich",
-      "source": "github"
-    },
-    "f04bf7788aebbb42": {
-      "date": "2026-07-04",
-      "title": "chthollyphile / folia-major",
-      "source": "github"
-    },
     "c210c0795b9b565b": {
       "date": "2026-07-05",
       "title": "Organic Maps",
@@ -5045,6 +4910,181 @@
     "a42982e762cc487e": {
       "date": "2026-08-03",
       "title": "livekit / agents",
+      "source": "github"
+    },
+    "0f5b780070214dcb": {
+      "date": "2026-08-04",
+      "title": "ZapDigits MCP",
+      "source": "producthunt"
+    },
+    "1e06de55f4be6ce5": {
+      "date": "2026-08-04",
+      "title": "Stynar",
+      "source": "producthunt"
+    },
+    "75b78a3d9a7d6570": {
+      "date": "2026-08-04",
+      "title": "Vinyl for Mac",
+      "source": "producthunt"
+    },
+    "db5724b6b015e9df": {
+      "date": "2026-08-04",
+      "title": "MOTHER",
+      "source": "producthunt"
+    },
+    "147e23403f541021": {
+      "date": "2026-08-04",
+      "title": "Dashi Metrics",
+      "source": "producthunt"
+    },
+    "0faae21a7c93a7ff": {
+      "date": "2026-08-04",
+      "title": "AirProof AI",
+      "source": "producthunt"
+    },
+    "ca9db84a0d2ae354": {
+      "date": "2026-08-04",
+      "title": "Snipplet",
+      "source": "producthunt"
+    },
+    "7ff46d0b34b72c17": {
+      "date": "2026-08-04",
+      "title": "Finyuus",
+      "source": "producthunt"
+    },
+    "cbf36375fce6642f": {
+      "date": "2026-08-04",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "source": "hackernews"
+    },
+    "c7e6d9e0d8e1c1bf": {
+      "date": "2026-08-04",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "source": "hackernews"
+    },
+    "4826195d4c7d357f": {
+      "date": "2026-08-04",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "source": "hackernews"
+    },
+    "662b5f913fcdaf17": {
+      "date": "2026-08-04",
+      "title": "Waymo in Dallas",
+      "source": "hackernews"
+    },
+    "8097b6823a4f24ab": {
+      "date": "2026-08-04",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "source": "hackernews"
+    },
+    "ed218b9fc9ec18ed": {
+      "date": "2026-08-04",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "source": "hackernews"
+    },
+    "2069796da4721147": {
+      "date": "2026-08-04",
+      "title": "Video2NAND – Abusing video codecs for great computational power",
+      "source": "hackernews"
+    },
+    "4679f18cd1afef0f": {
+      "date": "2026-08-04",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "source": "hackernews"
+    },
+    "fb6d951514dca9c7": {
+      "date": "2026-08-04",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "source": "hackernews"
+    },
+    "d0bd893f45bebe56": {
+      "date": "2026-08-04",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "source": "hackernews"
+    },
+    "2ffc3aecb62b082d": {
+      "date": "2026-08-04",
+      "title": "Stop Calling Everything Impostor Syndrome: The Myth of \"Just Push Harder\"",
+      "source": "devto"
+    },
+    "a8861a9b30d734a9": {
+      "date": "2026-08-04",
+      "title": "Damn Popovers",
+      "source": "devto"
+    },
+    "9e7b5db9566c3000": {
+      "date": "2026-08-04",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "90984ac2d725a390": {
+      "date": "2026-08-04",
+      "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
+      "source": "devto"
+    },
+    "e78160eacdfb3d9a": {
+      "date": "2026-08-04",
+      "title": "Understanding Over Origin: The Missing Friction",
+      "source": "devto"
+    },
+    "cbbe584a395d1061": {
+      "date": "2026-08-04",
+      "title": "I Hashed Every Word Twice to Count It Once",
+      "source": "devto"
+    },
+    "5eec5986331f4174": {
+      "date": "2026-08-04",
+      "title": "7.8 MB of Keys I Allocated Just to Throw Away",
+      "source": "devto"
+    },
+    "ca25ff9ebee18da5": {
+      "date": "2026-08-04",
+      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
+      "source": "devto"
+    },
+    "b00ff997a1f21ed3": {
+      "date": "2026-08-04",
+      "title": "Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)",
+      "source": "devto"
+    },
+    "26d436d8aa346408": {
+      "date": "2026-08-04",
+      "title": "Git Diff for Human Reasoning",
+      "source": "devto"
+    },
+    "4f8373d66b0b5b23": {
+      "date": "2026-08-04",
+      "title": "uber / ADR",
+      "source": "github"
+    },
+    "91014a4cbd784884": {
+      "date": "2026-08-04",
+      "title": "cypress-io / cypress",
+      "source": "github"
+    },
+    "cfdfd9911bfeec1f": {
+      "date": "2026-08-04",
+      "title": "webpack / webpack",
+      "source": "github"
+    },
+    "2e6363345ba2af4a": {
+      "date": "2026-08-04",
+      "title": "gabime / spdlog",
+      "source": "github"
+    },
+    "a1027f6b7d36d22a": {
+      "date": "2026-08-04",
+      "title": "denoland / deno",
+      "source": "github"
+    },
+    "eea0e619ec07671d": {
+      "date": "2026-08-04",
+      "title": "angular / angular",
+      "source": "github"
+    },
+    "3612263b02aa7e3a": {
+      "date": "2026-08-04",
+      "title": "tailwindlabs / tailwindcss",
       "source": "github"
     }
   }
