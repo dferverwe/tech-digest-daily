@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-04T23:37:38.007852",
+  "last_updated": "2026-08-05T23:33:10.073631",
   "sent_items": {
-    "c210c0795b9b565b": {
-      "date": "2026-07-05",
-      "title": "Organic Maps",
-      "source": "hackernews"
-    },
-    "e5e8f3e6e0089997": {
-      "date": "2026-07-05",
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "source": "hackernews"
-    },
-    "f9b51a9d6ac3b09d": {
-      "date": "2026-07-05",
-      "title": "Reparaible and open source paper printer",
-      "source": "hackernews"
-    },
-    "0d2b41d4706801b9": {
-      "date": "2026-07-05",
-      "title": "The future of Flipper Zero development",
-      "source": "hackernews"
-    },
-    "2915ff01a09fe0c5": {
-      "date": "2026-07-05",
-      "title": "Starring the Computer",
-      "source": "hackernews"
-    },
-    "091c39f17562e83c": {
-      "date": "2026-07-05",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "source": "hackernews"
-    },
-    "bbf0d1aa4ee32552": {
-      "date": "2026-07-05",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "source": "hackernews"
-    },
-    "349eaf122211922d": {
-      "date": "2026-07-05",
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "source": "hackernews"
-    },
-    "36c7a10bcd1104d7": {
-      "date": "2026-07-05",
-      "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-      "source": "hackernews"
-    },
-    "ba731a629642fa97": {
-      "date": "2026-07-05",
-      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
-      "source": "hackernews"
-    },
-    "ac3473629dd96043": {
-      "date": "2026-07-05",
-      "title": "Pennen",
-      "source": "producthunt"
-    },
-    "1b6e4ea6cd7b4d25": {
-      "date": "2026-07-05",
-      "title": "DocsAlot",
-      "source": "producthunt"
-    },
-    "d1d9615afc6e008e": {
-      "date": "2026-07-05",
-      "title": "WorkBuddy",
-      "source": "producthunt"
-    },
-    "56ae3a85c66fa117": {
-      "date": "2026-07-05",
-      "title": "Endl",
-      "source": "producthunt"
-    },
-    "734e06dd8b4fe6da": {
-      "date": "2026-07-05",
-      "title": "CircleChat",
-      "source": "producthunt"
-    },
-    "1ba272bb5f181cd1": {
-      "date": "2026-07-05",
-      "title": "At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet",
-      "source": "devto"
-    },
-    "7751120cb6568f4b": {
-      "date": "2026-07-05",
-      "title": "Who Else Has Inherited a Codebase With Zero Comments and a Prayer?",
-      "source": "devto"
-    },
-    "dd268478471ac9e2": {
-      "date": "2026-07-05",
-      "title": "Jetson Nano: Ollama & Optimal Quantization",
-      "source": "devto"
-    },
-    "08ee611e6ebc1474": {
-      "date": "2026-07-05",
-      "title": "How to Shine as an Introvert in a Loud Tech World",
-      "source": "devto"
-    },
-    "ef755c11d36ce71f": {
-      "date": "2026-07-05",
-      "title": "Watermark removal isn't lossy — you've been using the wrong tool",
-      "source": "devto"
-    },
-    "4eb69fc0a986415f": {
-      "date": "2026-07-05",
-      "title": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
-      "source": "devto"
-    },
-    "ee591735c67636e9": {
-      "date": "2026-07-05",
-      "title": "I Built a Sync Engine for a 0-Dep Client-Side Database, Here's What I Learned",
-      "source": "devto"
-    },
-    "12c5fe15844a3dd0": {
-      "date": "2026-07-05",
-      "title": "I tested the 'deterministic agent loop' claims with four experiments. They all failed — including my",
-      "source": "devto"
-    },
-    "61b7139a0f2c5deb": {
-      "date": "2026-07-05",
-      "title": "5 mistakes I made building an AI Chrome extension — and the readers who caught them",
-      "source": "devto"
-    },
-    "31dce154302d4b16": {
-      "date": "2026-07-05",
-      "title": "I Spent 3 Days Building a CLI for an Open Source Project. Here’s What Actually Happened.",
-      "source": "devto"
-    },
-    "36584af2f7390ffc": {
-      "date": "2026-07-05",
-      "title": "Leonxlnx / taste-skill",
-      "source": "github"
-    },
-    "8b826b177eba41b4": {
-      "date": "2026-07-05",
-      "title": "alirezarezvani / claude-skills",
-      "source": "github"
-    },
-    "ec2b5bfa19731be2": {
-      "date": "2026-07-05",
-      "title": "hesreallyhim / awesome-claude-code",
-      "source": "github"
-    },
-    "7344796a1c663646": {
-      "date": "2026-07-05",
-      "title": "coreyhaines31 / marketingskills",
-      "source": "github"
-    },
-    "387be0c359be7e59": {
-      "date": "2026-07-05",
-      "title": "CoplayDev / unity-mcp",
-      "source": "github"
-    },
     "150e0617e0e4738e": {
       "date": "2026-07-06",
       "title": "Nixmac",
@@ -5085,6 +4935,166 @@
     "3612263b02aa7e3a": {
       "date": "2026-08-04",
       "title": "tailwindlabs / tailwindcss",
+      "source": "github"
+    },
+    "8d7cedf02ad4b855": {
+      "date": "2026-08-05",
+      "title": "Discovery Loop",
+      "source": "hackernews"
+    },
+    "d37d7ecef2b4cb13": {
+      "date": "2026-08-05",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "source": "hackernews"
+    },
+    "47b35685c7b6be38": {
+      "date": "2026-08-05",
+      "title": "Zed DeltaDB",
+      "source": "hackernews"
+    },
+    "3bff1aeaaa98bb34": {
+      "date": "2026-08-05",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "source": "hackernews"
+    },
+    "f448502135c3c631": {
+      "date": "2026-08-05",
+      "title": "I'm switching my phone from Android to Linux",
+      "source": "hackernews"
+    },
+    "cae2f6d4d575a037": {
+      "date": "2026-08-05",
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "source": "hackernews"
+    },
+    "9eac21dc6afd938c": {
+      "date": "2026-08-05",
+      "title": "Muse Code and Muse Spark 1.2",
+      "source": "hackernews"
+    },
+    "4979b470afa03b2a": {
+      "date": "2026-08-05",
+      "title": "The title cards in Blade Runner are amazing",
+      "source": "hackernews"
+    },
+    "42b062770a48a1e4": {
+      "date": "2026-08-05",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "source": "hackernews"
+    },
+    "ef5bc04a96b8fc7f": {
+      "date": "2026-08-05",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "source": "hackernews"
+    },
+    "f7a96783abe607d3": {
+      "date": "2026-08-05",
+      "title": "NextDoor.Company",
+      "source": "producthunt"
+    },
+    "2df29dce83775f94": {
+      "date": "2026-08-05",
+      "title": "Wispr Flow Notetaker",
+      "source": "producthunt"
+    },
+    "5fe40cb4252a6e2a": {
+      "date": "2026-08-05",
+      "title": "Cloudflare Wallets",
+      "source": "producthunt"
+    },
+    "8df8da528b173ee3": {
+      "date": "2026-08-05",
+      "title": "BackEngine MCP",
+      "source": "producthunt"
+    },
+    "8720be1788260b7d": {
+      "date": "2026-08-05",
+      "title": "AdAnt AI",
+      "source": "producthunt"
+    },
+    "77f56a2b75b0d03a": {
+      "date": "2026-08-05",
+      "title": "Keystroke",
+      "source": "producthunt"
+    },
+    "cadf987074b805b6": {
+      "date": "2026-08-05",
+      "title": "npm i -g hotcell",
+      "source": "producthunt"
+    },
+    "87521c8477b7a842": {
+      "date": "2026-08-05",
+      "title": "Kiro Crew",
+      "source": "producthunt"
+    },
+    "e4c76c609d7e0d06": {
+      "date": "2026-08-05",
+      "title": "How I Smashed a Bug in a Shared Authentication Library",
+      "source": "devto"
+    },
+    "443ea7cff262cf74": {
+      "date": "2026-08-05",
+      "title": "General Challenge Updates Moving Forward",
+      "source": "devto"
+    },
+    "27eb5aea3573ca2d": {
+      "date": "2026-08-05",
+      "title": "Swift Protocols — The Art of Making Promises 🤝",
+      "source": "devto"
+    },
+    "23822812527d647c": {
+      "date": "2026-08-05",
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "source": "devto"
+    },
+    "93dbb70966e9a04b": {
+      "date": "2026-08-05",
+      "title": "Are we the abstraction? AI and the future of software engineering",
+      "source": "devto"
+    },
+    "f572a9e8ca97a72c": {
+      "date": "2026-08-05",
+      "title": "Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator",
+      "source": "devto"
+    },
+    "d6893fd6c1adf0a2": {
+      "date": "2026-08-05",
+      "title": "How I Stopped 429 Retries from Duplicating Successful Batch Jobs",
+      "source": "devto"
+    },
+    "4051e434c9f4179c": {
+      "date": "2026-08-05",
+      "title": "ঘরের থালি: CSS Art Feast of Peshawari Meat, Beef Curry & Chicken Biryani",
+      "source": "devto"
+    },
+    "54040ddf4ed26b33": {
+      "date": "2026-08-05",
+      "title": "This Bug Has Never Fired in Production. I Fixed It Anyway",
+      "source": "devto"
+    },
+    "51dec154abdf21eb": {
+      "date": "2026-08-05",
+      "title": "Ramen After Dark — A Steaming Comfort-Food Scene Drawn Entirely in CSS",
+      "source": "devto"
+    },
+    "710e3cb1a40c7d1e": {
+      "date": "2026-08-05",
+      "title": "cloudflare / computer",
+      "source": "github"
+    },
+    "0134ddc144f0e503": {
+      "date": "2026-08-05",
+      "title": "huangruiteng / loopx",
+      "source": "github"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-08-05",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "b8b2afae293a234e": {
+      "date": "2026-08-05",
+      "title": "roboflow / supervision",
       "source": "github"
     }
   }
